@@ -1,141 +1,100 @@
-# Appendix A — Investment Comparison Checklist
+# Glossary
 
-<!-- DRAFT PLACEHOLDER — Target: ~1,000 words -->
+<!-- DRAFT PLACEHOLDER — Target: ~2,000 words / 120–150 terms -->
+<!-- Terms added as chapters are drafted; each term defined inline on first use AND listed here -->
 
-*This checklist provides a one-page reference for comparing stocks and real estate across all eight dimensions analyzed in Part II of this book. Print it, save it, or use it alongside the decision framework in Chapter 17.*
-
----
-
-## How to Use This Checklist
-
-For each dimension below, review the summary comparison and check the column that better fits the reader's personal situation, goals, and preferences. There are no right or wrong answers — only answers that reflect individual circumstances.
+*This glossary provides definitions for all technical terms used in this book. Terms are listed alphabetically. The chapter where each term is first introduced is noted in parentheses.*
 
 ---
 
-## Comparison Checklist
+## A
 
-### 1. Returns and Growth Potential (Chapter 5)
+**Accredited Investor** — An individual meeting SEC income ($200,000/$300,000) or net worth ($1,000,000) thresholds, qualifying them for certain private investment opportunities. (Ch. 12)
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Historical average annual return (nominal) | ~10% (S&P 500, 1926–present) | ~3.5–4% appreciation + rental income |
-| Compounding mechanism | Reinvested dividends | Rental income reinvestment + mortgage paydown |
-| Leverage effect on returns | Limited (2:1 margin max) | Significant (4:1 or 5:1 via mortgage) |
-| Return on invested capital (with leverage) | Moderate | Potentially high |
+**Appreciation** — The increase in an asset's value over time. In stocks, this is the rise in share price. In real estate, this is the increase in property value. (Ch. 5)
 
-☐ Stocks better fit my return goals | ☐ Real estate better fits my return goals
+## B
 
----
+**Beta** — A measure of a stock's volatility relative to the overall market. A beta of 1.0 means the stock moves in line with the market; above 1.0 means more volatile; below 1.0 means less volatile. (Ch. 4)
 
-### 2. Risk and Volatility (Chapter 6)
+## C
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Price volatility | High (daily fluctuations) | Low (prices move slowly) |
-| Concentration risk | Low (index fund = 500+ companies) | High (single property = single asset) |
-| Emotional risk | Panic selling during crashes | Tenant nightmares, unexpected repairs |
-| Worst historical drawdown | ~57% (2007–2009 S&P 500) | ~27% (2006–2012 Case-Shiller national) |
+**Cap Rate (Capitalization Rate)** — The ratio of a property's net operating income (NOI) to its purchase price, expressed as a percentage. Used to evaluate the income-generating potential of a real estate investment. (Ch. 3)
 
-☐ I can handle stock volatility | ☐ I prefer real estate's stability
+**Capital Gains** — Profit from the sale of an asset. Short-term capital gains (assets held less than one year) are taxed as ordinary income. Long-term capital gains (held over one year) are taxed at preferential rates. (Ch. 9)
 
----
+**Cash-on-Cash Return** — The ratio of annual pre-tax cash flow to the total cash invested, expressed as a percentage. Commonly used in real estate to measure return on the investor's actual out-of-pocket investment. (Ch. 3)
 
-### 3. Cash Flow and Passive Income (Chapter 7)
+**Compound Interest / Compounding** — The process by which an investment generates earnings, which are then reinvested to generate their own earnings. Over time, this creates exponential growth. (Ch. 1)
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Income type | Dividends | Rental income |
-| Typical yield | ~1.5–3% (S&P 500 dividend yield) | ~4–8% (cash-on-cash, varies by market) |
-| Income reliability | Dividend cuts possible | Vacancy and non-payment risk |
-| Scalability | Frictionless (buy more shares) | Capital and management intensive |
+## D
 
-☐ Stock dividends fit my income needs | ☐ Rental income fits my income needs
+**Depreciation** — A tax deduction that allows real estate investors to deduct the cost of a property (excluding land) over its useful life (27.5 years for residential). Reduces taxable income without requiring a cash outlay. (Ch. 9)
 
----
+**Dividend** — A distribution of a portion of a company's earnings to shareholders, typically paid quarterly. (Ch. 2)
 
-### 4. Time and Effort (Chapter 8)
+**Dividend Yield** — The annual dividend per share divided by the stock price, expressed as a percentage. (Ch. 2)
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Minimum time commitment | 1–2 hours/month (index investing) | 5–15 hours/month (self-managed) |
-| Delegation option | Robo-advisor / financial advisor | Property manager (8–12% of gross rent) |
-| Ongoing involvement | Minimal for passive investors | Ongoing even with a manager |
+**DRIP (Dividend Reinvestment Plan)** — A program that automatically reinvests dividend payments into additional shares of the same stock or fund. (Ch. 7)
 
-☐ I want minimal time commitment | ☐ I am willing to invest my time
+## E
 
----
+**EPS (Earnings Per Share)** — A company's net profit divided by the number of outstanding shares. A key metric for evaluating stock profitability. (Ch. 2)
 
-### 5. Tax Advantages (Chapter 9)
+**ETF (Exchange-Traded Fund)** — A pooled investment fund that trades on stock exchanges like an individual stock. Most ETFs track an index, sector, or asset class. (Ch. 2)
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Key tax benefit | Long-term capital gains rates; tax-advantaged accounts (401k, IRA, Roth) | Depreciation deductions; 1031 exchanges |
-| Tax-deferred growth | Yes (retirement accounts) | Yes (1031 exchange) |
-| Income tax treatment | Qualified dividends at preferential rates | Rental income offset by depreciation |
+## F–G
 
-☐ Stock tax advantages better suit me | ☐ Real estate tax advantages better suit me
+**Forced Appreciation** — Increasing a property's value through renovations, better management, or rezoning, rather than relying on market-driven appreciation. (Ch. 5)
 
----
+**GRM (Gross Rent Multiplier)** — The ratio of a property's price to its annual gross rental income. A quick screening tool for comparing properties. (Ch. 3)
 
-### 6. Liquidity and Flexibility (Chapter 10)
+## H–I
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Time to convert to cash | Seconds (during market hours) | 30–90 days |
-| Transaction costs to sell | ~$0 (commission-free brokerages) | 7–10% (agents, closing costs, prep) |
-| Partial liquidation | Yes (sell any number of shares) | No (sell entire property or nothing) |
+**HELOC (Home Equity Line of Credit)** — A revolving line of credit secured by the equity in a property. (Ch. 10)
 
-☐ I need high liquidity | ☐ I can lock up capital long-term
+**Index Fund** — A mutual fund or ETF designed to track the performance of a specific market index, such as the S&P 500. (Ch. 2)
 
----
+## L
 
-### 7. Leverage and Financing (Chapter 11)
+**Leverage** — The use of borrowed capital to increase the potential return on an investment. In real estate, this typically means a mortgage. In stocks, this means a margin loan. (Ch. 11)
 
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Typical leverage ratio | 2:1 (Reg T margin) | 4:1 or 5:1 (80% LTV mortgage) |
-| Cost of leverage | Margin interest (variable, often 6–10%) | Mortgage interest (fixed or variable, often 5–8%) |
-| Risk of forced liquidation | Margin call | Foreclosure (much slower process) |
-| Social acceptance of leverage | Low (margin seen as risky) | High (mortgages are normalized) |
+**LTV (Loan-to-Value Ratio)** — The ratio of a mortgage loan amount to the appraised value of the property, expressed as a percentage. A higher LTV means more leverage. (Ch. 11)
 
-☐ I prefer unleveraged or low-leverage investing | ☐ I am comfortable using mortgage leverage
+## M–N
+
+**Margin** — Borrowing money from a broker to buy stocks. Regulation T limits initial margin to 50% of the purchase price. (Ch. 11)
+
+**Market Capitalization** — The total value of a company's outstanding shares, calculated as share price × number of shares. (Ch. 2)
+
+**NIIT (Net Investment Income Tax)** — A 3.8% surtax on investment income for individuals with modified AGI above certain thresholds. (Ch. 9)
+
+**NOI (Net Operating Income)** — A property's gross rental income minus operating expenses (excluding mortgage payments). The fundamental profitability metric in real estate. (Ch. 3)
+
+## P
+
+**P/E Ratio (Price-to-Earnings Ratio)** — The ratio of a stock's price to its earnings per share. Used to assess whether a stock is overvalued, undervalued, or fairly priced relative to its earnings. (Ch. 2)
+
+## R
+
+**REIT (Real Estate Investment Trust)** — A company that owns, operates, or finances income-producing real estate. REITs are required to distribute at least 90% of taxable income to shareholders and trade on public exchanges like stocks. (Ch. 3)
+
+## S
+
+**S&P 500** — A stock market index tracking the performance of 500 large-cap U.S. companies. Widely regarded as the best single gauge of the U.S. equity market. (Ch. 1)
+
+**Sharpe Ratio** — A measure of risk-adjusted return, calculated as (portfolio return − risk-free rate) ÷ standard deviation. Higher is better. (Ch. 5)
+
+## T–V
+
+**1031 Exchange** — A provision in the Internal Revenue Code (IRC §1031) that allows real estate investors to defer capital gains taxes by reinvesting proceeds from a property sale into a like-kind property within specific timeframes. (Ch. 9)
+
+**Vacancy Rate** — The percentage of time a rental property is unoccupied. A key risk factor in real estate income projections. (Ch. 6)
 
 ---
 
-### 8. Barrier to Entry (Chapter 12)
-
-| Factor | Stocks | Real Estate |
-|--------|--------|-------------|
-| Minimum capital to start | As low as $1 (fractional shares) | $15,000–$60,000+ (down payment + costs) |
-| Knowledge required to start | Low (index funds) | Moderate–High (market analysis, tenant law) |
-| Qualification requirements | Basic ID and bank account | Credit score, income verification, appraisal |
-| Time to first investment | Minutes | Weeks to months |
-
-☐ I want to start with low capital | ☐ I have capital ready for a down payment
+*Additional terms will be added as chapters are drafted. Target: 120–150 total entries.*
 
 ---
 
-## Tally
-
-| Category | Stocks ☐ | Real Estate ☐ |
-|----------|----------|---------------|
-| 1. Returns | | |
-| 2. Risk | | |
-| 3. Cash Flow | | |
-| 4. Time | | |
-| 5. Taxes | | |
-| 6. Liquidity | | |
-| 7. Leverage | | |
-| 8. Barrier to Entry | | |
-| **Total** | **/8** | **/8** |
-
-### Interpreting the Tally
-- **6–8 in one column:** Strong lean toward that asset class as a starting point
-- **4–5 in one column:** Moderate lean; consider combining both
-- **4/4 split:** Balanced profile; a combined portfolio approach (Chapter 15) may be ideal
-
-*This checklist is a starting point, not a prescription. Use it alongside the Scoring Model, Decision Tree, and Persona Profiles in Chapter 17 and Appendix C for a more complete self-assessment.*
-
----
-
-*Refer to the individual chapters for full analysis, data sources, and nuance behind each dimension.*
+*Status: Partial — to be completed as chapters are drafted*

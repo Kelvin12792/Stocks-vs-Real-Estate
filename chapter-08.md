@@ -1,33 +1,34 @@
-# Chapter 11 — Leverage and Financing: Using Other People's Money
+# Chapter 8 — Time, Effort, and Involvement: The Hidden Cost of Your Hours
 
-<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
-<!-- Persona: Carlos Gutierrez, 40, project manager, Phoenix AZ -->
-<!-- Comparison Dimension: Leverage & Financing -->
+<!-- DRAFT PLACEHOLDER — Target: 3,000 words -->
+<!-- Persona: Rachel Kim, 36, corporate attorney, Chicago IL -->
+<!-- Comparison Dimension: Time & Effort Required -->
 
-> "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."
-> — Archimedes
+> "The price of anything is the amount of life you exchange for it."
+> — Henry David Thoreau
 
 ---
 
 ## Planned Sections
 
-1. **What Leverage Means in Investing** — Amplifying returns (and losses) with borrowed capital; the mechanical concept
-2. **Real Estate Leverage: The Mortgage** — Conventional loans (20% down), FHA loans (3.5% down), VA loans (0% down); interest rates and their impact; typical LTV ratios of 75–80%
-3. **Stock Leverage: Margin Accounts** — How margin works; Regulation T (50% initial margin requirement); margin calls; maintenance margin; FINRA rules
-4. **Leverage Ratios Compared** — Real estate: 4:1 or 5:1 leverage common and socially accepted; stocks: 2:1 maximum under Reg T; why the asymmetry exists
-5. **How Leverage Affects Return on Invested Capital** — Worked example: $50K invested in a $50K stock position vs. $50K as 20% down on a $250K property; same asset appreciation rate, dramatically different ROI
-6. **The Double-Edged Sword** — Leveraged losses in each: underwater mortgage vs. margin call; what happens when values decline with borrowed money
-7. **Refinancing and Cash-Out Strategies** — How real estate investors access equity without selling; cash-out refinance, HELOC; the BRRRR strategy concept
-8. **Options and Leveraged ETFs** — Brief mention as alternative stock leverage tools (per blueprint: mentioned, not deep-dived)
-9. **Side-by-Side Leverage Comparison Table**
-10. **Persona: Carlos Gutierrez** — Construction background gives him sweat equity advantage; modeling how $50K performs with and without leverage in each asset class
+1. **Stock Investing Time Commitment** — Buy-and-hold index investing (minimal: 1–2 hours/month for rebalancing and review) vs. active stock picking (significant: research, monitoring, trading)
+2. **Real Estate Time Commitment** — Finding deals (market research, property visits, analysis), managing tenants (screening, communication, lease enforcement), maintenance coordination, bookkeeping and tax preparation
+3. **The Property Management Question** — Self-manage vs. hire a professional manager; typical fees (8–12% of gross rent); what management covers and what it does not; breakeven analysis
+4. **Opportunity Cost of Time** — Framework: hours spent × hourly earning potential = true cost of self-management; when does it make financial sense to manage vs. delegate?
+5. **Automation and Delegation** — Robo-advisors and auto-rebalancing for stocks; property management companies for real estate; what can and cannot be automated in each
+6. **The "Passive" Myth** — Neither asset class is truly passive at scale; index funds come closest; rental properties require ongoing involvement even with a manager
+7. **Side-by-Side Table** — Estimated hours per month for various investment approaches
+8. **Persona: Rachel Kim** — Billing $350/hour as an attorney; calculating whether self-managing a rental is worth her time vs. index fund investing
 
-## Key Data Needed
-- Freddie Mac PMMS historical mortgage rates
-- FINRA Regulation T margin requirements
-- Average LTV ratios for investment property loans
-- Margin call statistics and frequency
-- Cash-out refinance volume data (Freddie Mac)
+## Time Commitment Comparison (Draft Structure)
+
+| Approach | Hours/Month | Skill Required | Delegatable? |
+|----------|-------------|---------------|-------------|
+| Index fund buy-and-hold | 1–2 | Low | Fully (robo-advisor) |
+| Active stock picking | 10–20+ | High | Partially (advisor) |
+| Self-managed rental (1 property) | 5–15 | Moderate | Yes (property manager) |
+| Manager-managed rental | 1–3 | Low-Moderate | Already delegated |
+| Multiple self-managed rentals | 20–40+ | High | Yes (property manager) |
 
 ## Key Takeaways
 - [To be written during drafting]

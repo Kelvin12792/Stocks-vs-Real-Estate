@@ -1,170 +1,141 @@
-# Style Guide
+# Appendix A — Investment Comparison Checklist
 
-## Writing Standards for *Stocks vs. Real Estate*
+<!-- DRAFT PLACEHOLDER — Target: ~1,000 words -->
 
----
-
-## Voice and Tone
-
-### Core Voice
-- **Objective third-person** throughout — no "I," "we," or "you should"
-- Instead of "you should consider," use "investors may consider" or "one approach is to"
-- The book observes, presents, and analyzes — it does not prescribe
-
-### Blended Tone
-The book combines four tonal registers. Each chapter will use all four, weighted by context:
-
-| Register | When to Use | Example |
-|----------|-------------|---------|
-| **Academic/Analytical** | Presenting data, historical evidence, definitions | "Between 1926 and 2023, the S&P 500 delivered an annualized return of approximately 10.3% before inflation, according to data compiled by NYU Stern." |
-| **Conversational/Approachable** | Explaining complex concepts simply | "Think of a cap rate like a stock's earnings yield — it tells an investor how much income a property generates relative to its price." |
-| **Professional/Warm Advisor** | Guiding the reader through decisions | "The question is not whether stocks are better than real estate. The question is which combination of assets aligns with a given investor's timeline, risk tolerance, and life goals." |
-| **Storytelling/Narrative** | Case studies, historical events, personas | "In March 2009, David Chen watched his brokerage account lose 40% of its value in five months. Three blocks from his apartment, a two-bedroom condo that had listed for $380,000 in 2007 was now asking $245,000." |
-
-### Tone Don'ts
-- Never condescending or preachy
-- Never use hype language ("explosive returns," "guaranteed wealth," "secret strategy")
-- Never use first person
-- Never express a personal opinion as the author's stance
-- Never use filler phrases ("it goes without saying," "needless to say," "at the end of the day")
+*This checklist provides a one-page reference for comparing stocks and real estate across all eight dimensions analyzed in Part II of this book. Print it, save it, or use it alongside the decision framework in Chapter 17.*
 
 ---
 
-## Formatting Conventions
+## How to Use This Checklist
 
-### Headings
-- **H1 (#):** Chapter title only — one per file
-- **H2 (##):** Major sections within a chapter
-- **H3 (###):** Subsections
-- **H4 (####):** Sub-subsections (use sparingly)
-
-### Chapter Opening Quote
-Every chapter opens with a quote block:
-```markdown
-> "The stock market is a device for transferring money from the impatient to the patient."
-> — Warren Buffett
-```
-
-### Inline Term Definitions
-When introducing a technical term for the first time, define it inline using bold and parenthetical:
-```markdown
-The **cap rate** (capitalization rate — the ratio of a property's net operating income to its purchase price) is one of the most widely used metrics in real estate analysis.
-```
-The term should also be added to the glossary.
-
-### Key Takeaways
-Every chapter ends with a key takeaways section:
-```markdown
----
-
-## Key Takeaways
-
-- Takeaway one in a complete sentence
-- Takeaway two in a complete sentence
-- Takeaway three in a complete sentence
-```
-Limit to 4–6 takeaways per chapter. Each must be a standalone, meaningful statement.
-
-### Side-by-Side Comparisons
-When comparing stocks and real estate on a specific dimension, use a table:
-```markdown
-| Dimension | Stocks | Real Estate |
-|-----------|--------|-------------|
-| Liquidity | High — shares can be sold in seconds during market hours | Low — transactions take 30–90 days on average |
-```
-
-### Case Studies and Personas
-Introduce fictional personas in italic narrative blocks:
-```markdown
-*Maria Torres is a 42-year-old marketing director in Denver earning $135,000 annually. She has $80,000 in savings, a 401(k) with $210,000, and no real estate holdings. Her goal is to generate passive income within the next five years while keeping her day job.*
-```
-Always follow with analysis of how the chapter's concepts apply to this persona.
-
-### Data and Statistics
-- Always include the source and year inline
-- Use tables for multi-point comparisons
-- Round percentages to one decimal place unless precision matters
-- Always specify whether returns are nominal or inflation-adjusted
-
-```markdown
-According to the Federal Reserve's Survey of Consumer Finances (2022), the median net worth of homeowning families was $396,200, compared to $10,400 for renting families.
-```
-
-### Citations
-Inline citations only. No footnotes. No endnotes. No bibliography.
-```markdown
-A 2023 study published in the Journal of Financial Economics found that...
-According to IRS Publication 523 (2024)...
-Data from the S&P Dow Jones Indices (2024) shows...
-```
+For each dimension below, review the summary comparison and check the column that better fits the reader's personal situation, goals, and preferences. There are no right or wrong answers — only answers that reflect individual circumstances.
 
 ---
 
-## Word Count Targets
+## Comparison Checklist
 
-| Section | Target Words |
-|---------|-------------|
-| Front matter (disclaimer, how-to, introduction) | 3,000–4,000 |
-| Part I chapters (Ch. 1–4) | 2,500–3,500 each |
-| Part II chapters (Ch. 5–12) | 3,000–4,000 each |
-| Part III chapters (Ch. 13–14) | 3,000–3,500 each |
-| Part IV chapters (Ch. 15–18) | 3,000–4,000 each |
-| Back matter (glossary, appendices) | 4,000–6,000 total |
-| **Total minimum** | **50,000** |
+### 1. Returns and Growth Potential (Chapter 5)
 
----
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Historical average annual return (nominal) | ~10% (S&P 500, 1926–present) | ~3.5–4% appreciation + rental income |
+| Compounding mechanism | Reinvested dividends | Rental income reinvestment + mortgage paydown |
+| Leverage effect on returns | Limited (2:1 margin max) | Significant (4:1 or 5:1 via mortgage) |
+| Return on invested capital (with leverage) | Moderate | Potentially high |
 
-## Language Rules
-
-### Terminology Consistency
-Use these terms consistently throughout:
-
-| Use This | Not This |
-|----------|----------|
-| Real estate | Real-estate, realty, property (when referring to the asset class) |
-| Stocks | Equities (except when defining the term) |
-| Investor | Trader (unless specifically discussing trading) |
-| Returns | Gains (unless discussing capital gains specifically) |
-| Portfolio | Holdings (unless in a specific financial context) |
-
-### Numbers
-- Spell out one through nine; use numerals for 10 and above
-- Always use numerals for: percentages (5%), dollar amounts ($10,000), years (2008)
-- Use commas in numbers over 999: $1,000 / $1,000,000
-- For large round numbers, use words: "$2.3 million" not "$2,300,000"
-
-### Abbreviations
-- Define on first use: "net operating income (NOI)"
-- After first use, abbreviation only is acceptable
-- Common abbreviations that need no definition: IRS, S&P 500, GDP, SEC, FDIC
+☐ Stocks better fit my return goals | ☐ Real estate better fits my return goals
 
 ---
 
-## File Naming Conventions
+### 2. Risk and Volatility (Chapter 6)
 
-| Type | Format | Example |
-|------|--------|---------|
-| Chapters | `chapter-XX.md` | `chapter-05.md` |
-| Front matter | `descriptive-name.md` | `how-to-use-this-book.md` |
-| Appendices | `appendix-X-description.md` | `appendix-a-checklist.md` |
-| Planning docs | `UPPERCASE.md` | `PERSONAS.md` |
-| Tracking docs | `UPPERCASE.md` | `WORD_COUNT.md` |
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Price volatility | High (daily fluctuations) | Low (prices move slowly) |
+| Concentration risk | Low (index fund = 500+ companies) | High (single property = single asset) |
+| Emotional risk | Panic selling during crashes | Tenant nightmares, unexpected repairs |
+| Worst historical drawdown | ~57% (2007–2009 S&P 500) | ~27% (2006–2012 Case-Shiller national) |
+
+☐ I can handle stock volatility | ☐ I prefer real estate's stability
 
 ---
 
-## Review Checklist (Per Chapter)
+### 3. Cash Flow and Passive Income (Chapter 7)
 
-Before marking a chapter as "Review Ready":
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Income type | Dividends | Rental income |
+| Typical yield | ~1.5–3% (S&P 500 dividend yield) | ~4–8% (cash-on-cash, varies by market) |
+| Income reliability | Dividend cuts possible | Vacancy and non-payment risk |
+| Scalability | Frictionless (buy more shares) | Capital and management intensive |
 
-- [ ] Opens with a relevant, properly attributed quote
-- [ ] All technical terms defined inline on first use
-- [ ] At least one side-by-side comparison table
-- [ ] At least one persona case study or real historical example
-- [ ] All data points include source and year
-- [ ] All tax/legal claims verified and logged in LEGAL_REVIEW.md
-- [ ] All factual claims logged in FACT_CHECK.md
-- [ ] Key takeaways section present (4–6 items)
-- [ ] Word count meets target range
-- [ ] No first-person language
-- [ ] No prescriptive "you should" language
-- [ ] No unsourced statistics or calculations
+☐ Stock dividends fit my income needs | ☐ Rental income fits my income needs
+
+---
+
+### 4. Time and Effort (Chapter 8)
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Minimum time commitment | 1–2 hours/month (index investing) | 5–15 hours/month (self-managed) |
+| Delegation option | Robo-advisor / financial advisor | Property manager (8–12% of gross rent) |
+| Ongoing involvement | Minimal for passive investors | Ongoing even with a manager |
+
+☐ I want minimal time commitment | ☐ I am willing to invest my time
+
+---
+
+### 5. Tax Advantages (Chapter 9)
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Key tax benefit | Long-term capital gains rates; tax-advantaged accounts (401k, IRA, Roth) | Depreciation deductions; 1031 exchanges |
+| Tax-deferred growth | Yes (retirement accounts) | Yes (1031 exchange) |
+| Income tax treatment | Qualified dividends at preferential rates | Rental income offset by depreciation |
+
+☐ Stock tax advantages better suit me | ☐ Real estate tax advantages better suit me
+
+---
+
+### 6. Liquidity and Flexibility (Chapter 10)
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Time to convert to cash | Seconds (during market hours) | 30–90 days |
+| Transaction costs to sell | ~$0 (commission-free brokerages) | 7–10% (agents, closing costs, prep) |
+| Partial liquidation | Yes (sell any number of shares) | No (sell entire property or nothing) |
+
+☐ I need high liquidity | ☐ I can lock up capital long-term
+
+---
+
+### 7. Leverage and Financing (Chapter 11)
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Typical leverage ratio | 2:1 (Reg T margin) | 4:1 or 5:1 (80% LTV mortgage) |
+| Cost of leverage | Margin interest (variable, often 6–10%) | Mortgage interest (fixed or variable, often 5–8%) |
+| Risk of forced liquidation | Margin call | Foreclosure (much slower process) |
+| Social acceptance of leverage | Low (margin seen as risky) | High (mortgages are normalized) |
+
+☐ I prefer unleveraged or low-leverage investing | ☐ I am comfortable using mortgage leverage
+
+---
+
+### 8. Barrier to Entry (Chapter 12)
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| Minimum capital to start | As low as $1 (fractional shares) | $15,000–$60,000+ (down payment + costs) |
+| Knowledge required to start | Low (index funds) | Moderate–High (market analysis, tenant law) |
+| Qualification requirements | Basic ID and bank account | Credit score, income verification, appraisal |
+| Time to first investment | Minutes | Weeks to months |
+
+☐ I want to start with low capital | ☐ I have capital ready for a down payment
+
+---
+
+## Tally
+
+| Category | Stocks ☐ | Real Estate ☐ |
+|----------|----------|---------------|
+| 1. Returns | | |
+| 2. Risk | | |
+| 3. Cash Flow | | |
+| 4. Time | | |
+| 5. Taxes | | |
+| 6. Liquidity | | |
+| 7. Leverage | | |
+| 8. Barrier to Entry | | |
+| **Total** | **/8** | **/8** |
+
+### Interpreting the Tally
+- **6–8 in one column:** Strong lean toward that asset class as a starting point
+- **4–5 in one column:** Moderate lean; consider combining both
+- **4/4 split:** Balanced profile; a combined portfolio approach (Chapter 15) may be ideal
+
+*This checklist is a starting point, not a prescription. Use it alongside the Scoring Model, Decision Tree, and Persona Profiles in Chapter 17 and Appendix C for a more complete self-assessment.*
+
+---
+
+*Refer to the individual chapters for full analysis, data sources, and nuance behind each dimension.*

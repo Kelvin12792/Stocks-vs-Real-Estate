@@ -1,31 +1,28 @@
-# Chapter 10 — Liquidity and Flexibility: How Easily Can You Move?
+# Chapter 2 — Understanding Stocks: Ownership, Markets, and How They Work
 
-<!-- DRAFT PLACEHOLDER — Target: 3,000 words -->
-<!-- Persona: Anika Patel, 34, product manager, San Francisco CA -->
-<!-- Comparison Dimension: Liquidity & Flexibility -->
+<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
 
-> "The measure of intelligence is the ability to change."
-> — Attributed to Albert Einstein
+> "An investment in knowledge pays the best interest."
+> — Benjamin Franklin
 
 ---
 
 ## Planned Sections
 
-1. **Defining Liquidity** — Speed and cost of converting an asset to cash without significant loss of value
-2. **Stock Liquidity** — Sell in seconds during market hours; T+1 settlement; market orders vs. limit orders; after-hours trading; no negotiation required
-3. **Real Estate Illiquidity** — 30–90 day average sale timeline; transaction costs (5–6% agent commissions, 2–5% closing costs, staging, repairs); price uncertainty until closing
-4. **Partial Liquidity** — Selling 10 shares vs. selling half a house; stocks allow precise position sizing; real estate is all-or-nothing (without refinancing)
-5. **REITs as a Liquidity Bridge** — Publicly traded REITs offer real estate exposure with stock-like liquidity; trade-offs vs. direct ownership
-6. **When Illiquidity Is a Feature** — Forced discipline; can't panic-sell a rental property at 2 AM; behavioral benefit of friction
-7. **Emergency Access to Capital** — Margin loans against stock portfolios (quick, low friction, interest-bearing) vs. HELOCs against property equity (application process, approval time, variable rates)
-8. **Side-by-Side Liquidity Comparison Table**
-9. **Persona: Anika Patel** — Received a job offer in another city; assessing how quickly she can reposition her investments; startup equity concentration adds complexity
+1. **What Buying a Stock Actually Means** — Fractional ownership of a business, claims on earnings, voting rights, residual claims in liquidation
+2. **Types of Stocks** — Common vs. preferred; growth vs. value; large-cap, mid-cap, small-cap; domestic vs. international; sector classification
+3. **Dividend Stocks and Income Investing** — What dividends are, dividend aristocrats, yield vs. payout ratio, DRIP programs
+4. **How Stock Exchanges Work** — NYSE, NASDAQ; market makers and specialists; order types (market, limit, stop-loss); trading hours; settlement (T+1)
+5. **Index Funds, ETFs, and Mutual Funds** — The passive investing revolution; how index funds work; expense ratios; total market vs. sector vs. international; Bogle's contribution
+6. **Modern Access Points** — Fractional shares, commission-free trading, robo-advisors (mentioned, not deep-dived per blueprint)
+7. **Key Stock Metrics Introduced** — P/E ratio, EPS, market capitalization, dividend yield, beta; each defined inline with parenthetical
+8. **Side-by-Side Setup** — How this chapter's content maps to Chapter 3 for direct comparison
 
 ## Key Data Needed
-- Average days on market for residential real estate (NAR)
-- Average transaction costs for home sales (ClosingCorp)
-- Margin loan interest rates (major brokerages)
-- HELOC average terms and approval timelines
+- Current number of publicly traded companies (World Federation of Exchanges)
+- Historical growth of retail investor participation (Gallup, Federal Reserve SCF)
+- Index fund market share growth over time (ICI data)
+- Expense ratio comparison: active vs. passive funds
 
 ## Key Takeaways
 - [To be written during drafting]

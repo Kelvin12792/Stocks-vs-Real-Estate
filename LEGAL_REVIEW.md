@@ -1,101 +1,83 @@
-# 📘 Stocks vs. Real Estate
+# Legal Review Tracker
 
-### A Comprehensive Guide to Building Wealth Through the Two Most Popular Asset Classes
-
----
-
-## About This Book
-
-*Stocks vs. Real Estate* is a 50,000+ word, research-driven guide that provides an objective, side-by-side comparison of the two most popular wealth-building vehicles in the modern economy. Written for working professionals aged 30–50, the book combines academic rigor with accessible storytelling to help readers make informed investment decisions based on their unique financial profile.
-
-This book does not take sides. It presents verified data, historical evidence, expert perspectives, and actionable frameworks — then lets the reader decide.
+## Purpose
+Every tax rule, regulation, legal structure, and compliance-related claim in this book must be verified against current law and properly attributed. This tracker ensures legal accuracy and flags items that may change between editions.
 
 ---
 
-## Edition
+## Status Key
 
-| Field | Detail |
-|-------|--------|
-| **Current Edition** | 1st Edition |
-| **Status** | In Development |
-| **Target Word Count** | 50,000+ |
-| **Primary Market** | United States (with global context) |
-| **Target Reader** | Working professionals (30–50) seeking to grow wealth |
-
----
-
-## Table of Contents
-
-### Front Matter
-- [Cover](manuscript/00-front-matter/cover.md)
-- [Disclaimer](manuscript/00-front-matter/disclaimer.md)
-- [How to Use This Book](manuscript/00-front-matter/how-to-use-this-book.md)
-- [Introduction](manuscript/00-front-matter/introduction.md)
-
-### Part I: The Foundations
-- [Chapter 1 — The Wealth-Building Landscape](manuscript/part-01-foundations/chapter-01.md)
-- [Chapter 2 — Understanding Stocks](manuscript/part-01-foundations/chapter-02.md)
-- [Chapter 3 — Understanding Real Estate](manuscript/part-01-foundations/chapter-03.md)
-- [Chapter 4 — The Language of Investing](manuscript/part-01-foundations/chapter-04.md)
-
-### Part II: The Head-to-Head Comparison
-- [Chapter 5 — Returns and Growth Potential](manuscript/part-02-comparison/chapter-05.md)
-- [Chapter 6 — Risk and Volatility](manuscript/part-02-comparison/chapter-06.md)
-- [Chapter 7 — Cash Flow and Passive Income](manuscript/part-02-comparison/chapter-07.md)
-- [Chapter 8 — Time, Effort, and Involvement](manuscript/part-02-comparison/chapter-08.md)
-- [Chapter 9 — Tax Advantages and Legal Structures](manuscript/part-02-comparison/chapter-09.md)
-- [Chapter 10 — Liquidity and Flexibility](manuscript/part-02-comparison/chapter-10.md)
-- [Chapter 11 — Leverage and Financing](manuscript/part-02-comparison/chapter-11.md)
-- [Chapter 12 — Barrier to Entry](manuscript/part-02-comparison/chapter-12.md)
-
-### Part III: The Mind Game
-- [Chapter 13 — Myths and Misconceptions](manuscript/part-03-mind-game/chapter-13.md)
-- [Chapter 14 — The Psychology of Investing](manuscript/part-03-mind-game/chapter-14.md)
-
-### Part IV: Putting It All Together
-- [Chapter 15 — The Combined Portfolio](manuscript/part-04-putting-it-together/chapter-15.md)
-- [Chapter 16 — The Future of Both](manuscript/part-04-putting-it-together/chapter-16.md)
-- [Chapter 17 — Your Decision Framework](manuscript/part-04-putting-it-together/chapter-17.md)
-- [Chapter 18 — Final Thoughts](manuscript/part-04-putting-it-together/chapter-18.md)
-
-### Back Matter
-- [Glossary](manuscript/back-matter/glossary.md)
-- [Appendix A — Investment Comparison Checklist](manuscript/back-matter/appendix-a-checklist.md)
-- [Appendix B — ROI and Cash Flow Calculators](manuscript/back-matter/appendix-b-calculators.md)
-- [Appendix C — Decision Framework Worksheets](manuscript/back-matter/appendix-c-worksheets.md)
-- [Appendix D — Recommended Reading and Resources](manuscript/back-matter/appendix-d-resources.md)
+| Symbol | Status |
+|--------|--------|
+| ⬜ | Not yet reviewed |
+| 🟡 | Drafted — needs legal verification |
+| 🟢 | Verified against current law/regulation |
+| 🔴 | Outdated or incorrect — needs update |
+| 🔵 | Updated for new edition |
 
 ---
 
-## Project Navigation
+## Legal Claims Log
 
-| Document | Purpose |
-|----------|---------|
-| [Book Blueprint](BOOK_BLUEPRINT.md) | Complete vision and planning decisions |
-| [Style Guide](STYLE_GUIDE.md) | Writing conventions, tone, formatting |
-| [Design Guide](design/DESIGN_GUIDE.md) | Visual design system — fonts, colors, layout |
-| [Outline](planning/OUTLINE.md) | Full chapter-by-chapter outline |
-| [Chapter Tracker](tracking/CHAPTER_TRACKER.md) | Per-chapter status |
-| [Progress](tracking/PROGRESS.md) | High-level project milestones |
-| [Word Count](tracking/WORD_COUNT.md) | Running word count log |
-| [Fact Check](tracking/FACT_CHECK.md) | Factual claim verification tracker |
-| [Legal Review](tracking/LEGAL_REVIEW.md) | Tax, regulation, and legal accuracy tracker |
-| [Changelog](CHANGELOG.md) | Repository change history |
+### Tax-Related Claims
+
+| # | Claim | Legal Reference | Jurisdiction | Verified Date | Status | Chapter | Notes |
+|---|-------|----------------|-------------|---------------|--------|---------|-------|
+| T.01 | Long-term capital gains tax rates | IRC §1(h) | US Federal | | ⬜ | Ch. 9 | Rates may change with new legislation |
+| T.02 | 1031 Exchange rules | IRC §1031 | US Federal | | ⬜ | Ch. 9 | |
+| T.03 | Depreciation of rental property | IRC §167, §168 | US Federal | | ⬜ | Ch. 9 | 27.5-year schedule for residential |
+| T.04 | Qualified dividends tax treatment | IRC §1(h)(11) | US Federal | | ⬜ | Ch. 9 | |
+| T.05 | Wash sale rule | IRC §1091 | US Federal | | ⬜ | Ch. 9 | |
+| T.06 | Primary residence exclusion | IRC §121 | US Federal | | ⬜ | Ch. 9 | $250K single / $500K married |
+| T.07 | Passive activity loss rules | IRC §469 | US Federal | | ⬜ | Ch. 9 | |
+| T.08 | NIIT (Net Investment Income Tax) | IRC §1411 | US Federal | | ⬜ | Ch. 9 | 3.8% surcharge |
+| T.09 | State tax considerations | Various | State-level | | ⬜ | Ch. 9 | Note variation by state |
+| T.10 | Estate tax and step-up in basis | IRC §1014 | US Federal | | ⬜ | Ch. 9 | |
+
+### Regulatory Claims
+
+| # | Claim | Regulatory Body | Reference | Verified Date | Status | Chapter | Notes |
+|---|-------|----------------|-----------|---------------|--------|---------|-------|
+| R.01 | SEC regulation of securities | SEC | Securities Act of 1933, Exchange Act of 1934 | | ⬜ | Ch. 2 | |
+| R.02 | FINRA broker-dealer oversight | FINRA | FINRA Rules | | ⬜ | Ch. 2 | |
+| R.03 | Accredited investor definition | SEC | Regulation D, Rule 501 | | ⬜ | Ch. 12 | Income/net worth thresholds |
+| R.04 | Fair Housing Act implications | HUD | Fair Housing Act (1968) | | ⬜ | Ch. 3 | |
+| R.05 | Dodd-Frank mortgage rules | CFPB | Dodd-Frank Act, Title XIV | | ⬜ | Ch. 11 | |
+| R.06 | REIT qualification rules | IRS/SEC | IRC §856–860 | | ⬜ | Ch. 3 | 90% distribution requirement |
+
+### Legal Structure Claims
+
+| # | Claim | Structure Type | Reference | Verified Date | Status | Chapter | Notes |
+|---|-------|---------------|-----------|---------------|--------|---------|-------|
+| L.01 | LLC for rental property | Entity structure | State LLC statutes | | ⬜ | Ch. 9 | Varies by state |
+| L.02 | S-Corp vs. C-Corp for holding | Entity structure | IRC Subchapter S | | ⬜ | Ch. 9 | |
+| L.03 | Self-directed IRA for real estate | Retirement vehicle | IRC §408 | | ⬜ | Ch. 15 | |
+| L.04 | Brokerage account types | Account structure | SEC/IRS regulations | | ⬜ | Ch. 2 | Taxable, IRA, Roth, 401(k) |
+| L.05 | Syndication legal requirements | Securities law | SEC Regulation D | | ⬜ | Ch. 3 | |
 
 ---
 
-## Research Integrity
+## Edition Sensitivity Flags
 
-Every claim in this book is governed by the following standards:
+Items most likely to need updating in future editions:
 
-1. **No hallucinated data** — Every number, percentage, and statistic is sourced from a verifiable publication
-2. **No assumed regulations** — All tax rules and legal structures reference specific laws, IRS codes, or regulatory bodies
-3. **All calculations are reproducible** — Formulas and inputs are shown
-4. **Sources are dated** — Every factual claim notes its publication date for future edition updates
-5. **Living audit trail** — `FACT_CHECK.md` and `LEGAL_REVIEW.md` serve as verification logs across editions
+| Priority | Item | Reason |
+|----------|------|--------|
+| 🔴 High | Capital gains tax rates | Subject to congressional legislation |
+| 🔴 High | 1031 Exchange rules | Periodically targeted for reform |
+| 🔴 High | Accredited investor thresholds | SEC reviews periodically |
+| 🟡 Medium | Depreciation schedules | Changed by Tax Cuts and Jobs Act (2017); may change again |
+| 🟡 Medium | SALT deduction cap | Set to expire/change |
+| 🟡 Medium | Estate tax exemption amounts | Scheduled sunset of TCJA provisions |
+| 🟢 Low | Basic LLC/entity structures | Relatively stable |
+| 🟢 Low | SEC/FINRA general oversight | Structural, unlikely to change fundamentally |
 
 ---
 
-## License
+## Verification Standards
 
-See [LICENSE.md](LICENSE.md) for copyright and usage terms.
+1. **Primary sources only:** IRS publications, SEC releases, actual statutory text (IRC), CFPB rules
+2. **Secondary verification:** Cross-reference with CPA/tax attorney publications (e.g., Journal of Accountancy, Tax Foundation)
+3. **Date sensitivity:** All tax rates and thresholds must state the tax year they apply to
+4. **Jurisdiction clarity:** Every legal claim must state whether it is federal, state-specific, or general
+5. **Disclaimer integration:** The book's disclaimer must note that tax laws and regulations change and readers should consult qualified professionals

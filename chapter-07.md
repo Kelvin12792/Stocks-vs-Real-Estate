@@ -1,65 +1,35 @@
-# Appendix D — Recommended Reading and Resources
+# Chapter 7 — Cash Flow and Passive Income: Getting Paid While You Sleep
 
-<!-- DRAFT PLACEHOLDER — Target: ~500 words -->
+<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
+<!-- Persona: James and Linda Park, 41/39, teacher + freelance designer, Portland OR -->
+<!-- Comparison Dimension: Cash Flow & Passive Income -->
 
-*A curated selection of books, data sources, and organizations for readers who want to deepen their knowledge of stocks, real estate, or both.*
-
----
-
-## Books
-
-### Stock Market and Investing
-- *The Intelligent Investor* — Benjamin Graham (1949, revised 2006)
-- *A Random Walk Down Wall Street* — Burton Malkiel (1973, revised 2023)
-- *The Little Book of Common Sense Investing* — John C. Bogle (2007)
-- *Stocks for the Long Run* — Jeremy Siegel (1994, revised 2022)
-- *The Psychology of Money* — Morgan Housel (2020)
-
-### Real Estate Investing
-- *The Millionaire Real Estate Investor* — Gary Keller (2005)
-- *The Book on Rental Property Investing* — Brandon Turner (2015)
-- *The ABCs of Real Estate Investing* — Ken McElroy (2004)
-
-### Behavioral Finance and Decision-Making
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011)
-- *Misbehaving* — Richard Thaler (2015)
-- *Nudge* — Richard Thaler and Cass Sunstein (2008)
-- *The Black Swan* — Nassim Nicholas Taleb (2007)
-
-### Wealth Building and Financial Planning
-- *The Simple Path to Wealth* — JL Collins (2016)
-- *Your Money or Your Life* — Vicki Robin (1992, revised 2018)
-- *The Bogleheads' Guide to Investing* — Larimore, Lindauer, LeBoeuf (2006)
+> "Wealth consists not in having great possessions, but in having few wants."
+> — Epictetus
 
 ---
 
-## Data Sources and Research
+## Planned Sections
 
-| Source | What It Provides | URL |
-|--------|-----------------|-----|
-| FRED (Federal Reserve Economic Data) | Interest rates, inflation, monetary data, economic indicators | fred.stlouisfed.org |
-| NYU Stern (Damodaran) | Historical stock returns, risk premiums, valuation data | pages.stern.nyu.edu/~adamodar |
-| S&P Dow Jones Indices | S&P 500 returns, Case-Shiller Home Price Index | spglobal.com/spdji |
-| Bureau of Labor Statistics | CPI, inflation, employment data | bls.gov |
-| US Census Bureau | Homeownership rates, housing data, rental data | census.gov |
-| National Association of Realtors | Median home prices, existing home sales, market reports | nar.realtor |
-| IRS Publications | Tax rates, deduction rules, regulations | irs.gov |
-| SEC (EDGAR) | Company filings, regulatory guidance, investor education | sec.gov |
-| Freddie Mac PMMS | Weekly mortgage rate surveys | freddiemac.com/pmms |
-| Tax Foundation | State tax comparisons, federal tax analysis | taxfoundation.org |
+1. **Defining Passive Income** — What it actually means and what it does not; the spectrum from fully passive to actively managed
+2. **Dividend Investing in Stocks** — How dividends work; dividend aristocrats and dividend kings; yield vs. growth trade-off; DRIP (dividend reinvestment plans); building a dividend income stream
+3. **Rental Income in Real Estate** — Gross rent, operating expenses (taxes, insurance, maintenance, management, vacancy reserve), net cash flow; the 50% rule and 1% rule as quick screens
+4. **Reliability of Income** — Dividend cut risk (historical frequency of S&P 500 dividend cuts) vs. vacancy periods and tenant non-payment risk
+5. **Scaling Income** — Adding shares is frictionless; adding properties requires capital, time, and management capacity; compounding dividends vs. compounding properties
+6. **Tax Treatment Preview** — How each income type is taxed differently (qualified dividends vs. rental income + depreciation); forward reference to Chapter 9
+7. **Side-by-Side Cash Flow Comparison** — $300K portfolio yielding 3% dividends vs. $300K rental property generating net rental income; worked example with assumptions
+8. **Persona: James and Linda Park** — Evaluating which path gets them to $3,000/month passive income faster given their income, savings, and time availability
 
----
+## Key Data Needed
+- S&P 500 historical dividend yield (multpl.com / S&P Global)
+- Dividend aristocrat performance data
+- Census Bureau median gross rent data
+- Average operating expense ratios for rental properties
+- Historical dividend cut frequency during recessions
 
-## Professional Organizations
-
-| Organization | Focus | URL |
-|-------------|-------|-----|
-| CFA Institute | Investment analysis and portfolio management standards | cfainstitute.org |
-| NAREIT | Real estate investment trust research and education | reit.com |
-| AICPA | Accounting and tax professional standards | aicpa.org |
-| FINRA | Broker-dealer regulation and investor protection | finra.org |
-| NARPM | National Association of Residential Property Managers | narpm.org |
+## Key Takeaways
+- [To be written during drafting]
 
 ---
 
-*This list is curated, not exhaustive. Readers are encouraged to verify the current availability and edition of any book before purchasing, and to confirm that data source URLs are active at the time of access.*
+*Status: Placeholder — to be drafted*

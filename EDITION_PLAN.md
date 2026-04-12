@@ -1,41 +1,73 @@
-# Errata
+# Edition Plan
 
 ## Purpose
-Tracks errors discovered after publication. Corrections logged here are incorporated into the next edition and reflected in EDITION_LOG.md.
+Forward-looking document capturing ideas, triggers, and plans for future editions. Updated continuously as new considerations arise during writing, post-publication feedback, and market changes.
 
 ---
 
-## 1st Edition Errata
+## 2nd Edition — Planned Updates
 
-| # | Date Reported | Chapter | Page | Error Description | Correction | Severity | Corrected In |
-|---|--------------|---------|------|-------------------|------------|----------|-------------|
-| | | | | | | | |
+### Mandatory Updates (Data-Driven)
+
+| Category | Items to Update | Source to Check | Frequency |
+|----------|----------------|-----------------|-----------|
+| Stock market returns | S&P 500, Dow, Nasdaq historical averages | NYU Stern, S&P Global | Every edition |
+| Real estate prices | Median home prices, Case-Shiller Index | FRED, NAR, Census Bureau | Every edition |
+| Tax rates | Capital gains, income brackets, estate tax | IRS publications | Every edition |
+| Regulatory changes | SEC rules, FINRA updates, Dodd-Frank amendments | SEC.gov, CFPB | Every edition |
+| Inflation data | CPI, real vs. nominal return adjustments | BLS, FRED | Every edition |
+| Mortgage rates | Current and historical averages | Freddie Mac PMMS | Every edition |
+| Homeownership rates | National and demographic breakdowns | Census Bureau | Every edition |
+| Net worth data | Median/mean by homeowner vs. renter | Federal Reserve SCF | Every 3 years (survey cycle) |
+
+### Potential New Content
+
+| Idea | Rationale | Priority | Notes |
+|------|-----------|----------|-------|
+| Expanded global markets section | Reader demand for non-US coverage | 🟡 Medium | Could add UK, Canada, Australia sections |
+| Cryptocurrency as a third asset class | Growing relevance | 🟡 Medium | Only if it matures as an institutional asset |
+| Climate risk and real estate | Insurance costs, flood zones, valuations | 🟡 Medium | Increasingly material to RE investment decisions |
+| AI-driven investment tools deep dive | Rapid evolution since 1st edition | 🔴 High | Ch. 16 will need significant refresh |
+| Post-pandemic market analysis | Long-term effects becoming clearer | 🟡 Medium | Remote work impact on RE markets |
+| Interview or expert Q&A section | Adds credibility and reader engagement | 🟢 Low | Consider for 3rd edition |
+
+### Reader Feedback Collection
+
+| Channel | Method | Status |
+|---------|--------|--------|
+| Book website | Feedback form | ⬜ To set up |
+| Amazon reviews | Monitor and categorize | ⬜ Post-publication |
+| Social media | Track mentions and discussions | ⬜ Post-publication |
+| Email list | Reader survey after 6 months | ⬜ To set up |
+| Professional reviewers | Solicit structured feedback | ⬜ Post-publication |
+
+### Structural Improvements
+
+| Improvement | Description | Priority |
+|-------------|-------------|----------|
+| More personas | Add 2–3 additional investor profiles representing different demographics | 🟡 Medium |
+| Interactive digital companion | Web-based calculators and decision tools | 🟡 Medium |
+| Audio edition | Audiobook narration | 🟢 Low |
+| Workbook companion | Standalone printable workbook for frameworks | 🟢 Low |
 
 ---
 
-## Severity Key
+## Edition Trigger Criteria
 
-| Level | Definition | Action |
-|-------|-----------|--------|
-| 🔴 Critical | Factual error, incorrect tax/legal info, wrong calculation | Immediate digital update; flag for next print run |
-| 🟡 Moderate | Misleading phrasing, outdated statistic, unclear explanation | Include in next edition |
-| 🟢 Minor | Typo, formatting issue, broken cross-reference | Batch for next edition |
+A new edition should be initiated when **any two** of the following occur:
 
----
-
-## Reporting an Error
-
-To report an error:
-1. Open a GitHub Issue with the **Errata** label
-2. Include: edition, chapter, page number (if applicable), the error, and the correct information with source
-3. The error will be reviewed, verified, and added to this log
+1. Tax law changes materially affect the content of Chapter 9
+2. More than 5 items in ERRATA.md have been logged
+3. Market data is more than 3 years old
+4. A major market event has occurred that changes the analysis (e.g., crash, new regulation, structural market shift)
+5. Reader feedback consistently identifies a gap or error pattern
+6. A new investment vehicle has become mainstream enough to warrant inclusion
 
 ---
 
-## Correction Protocol
+## Timeline Estimate
 
-1. Error reported → added to this log with status "Reported"
-2. Error verified against source → severity assigned
-3. Critical errors → digital formats updated immediately
-4. All errors → incorporated into next print edition
-5. Correction logged in `editions/EDITION_LOG.md`
+| Edition | Target | Trigger Review |
+|---------|--------|----------------|
+| 2nd Edition | 2–3 years after 1st | Annual review of trigger criteria |
+| 3rd Edition | 2–3 years after 2nd | Annual review of trigger criteria |

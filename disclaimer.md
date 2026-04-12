@@ -1,32 +1,21 @@
-# Chapter 2 — Understanding Stocks: Ownership, Markets, and How They Work
+# Disclaimer
 
-<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
+The information contained in this book is provided for educational and informational purposes only. It is not intended as, and should not be construed as, financial advice, investment advice, tax advice, or legal advice.
 
-> "An investment in knowledge pays the best interest."
-> — Benjamin Franklin
+The author is not a licensed financial advisor, tax professional, attorney, or registered investment advisor. The content of this book reflects research-based analysis and general educational information about stocks and real estate as asset classes. It does not account for any individual's specific financial situation, goals, risk tolerance, or circumstances.
 
----
+All investment involves risk, including the potential loss of principal. Past performance of any asset class, market index, or investment strategy does not guarantee future results. Historical data and returns cited in this book are presented for educational context and are not predictive of future outcomes.
 
-## Planned Sections
+Tax laws, regulations, and financial rules referenced in this book are based on information available at the time of publication and apply primarily to the United States. Tax laws change frequently. Readers should consult a qualified tax professional or certified public accountant for advice specific to their situation.
 
-1. **What Buying a Stock Actually Means** — Fractional ownership of a business, claims on earnings, voting rights, residual claims in liquidation
-2. **Types of Stocks** — Common vs. preferred; growth vs. value; large-cap, mid-cap, small-cap; domestic vs. international; sector classification
-3. **Dividend Stocks and Income Investing** — What dividends are, dividend aristocrats, yield vs. payout ratio, DRIP programs
-4. **How Stock Exchanges Work** — NYSE, NASDAQ; market makers and specialists; order types (market, limit, stop-loss); trading hours; settlement (T+1)
-5. **Index Funds, ETFs, and Mutual Funds** — The passive investing revolution; how index funds work; expense ratios; total market vs. sector vs. international; Bogle's contribution
-6. **Modern Access Points** — Fractional shares, commission-free trading, robo-advisors (mentioned, not deep-dived per blueprint)
-7. **Key Stock Metrics Introduced** — P/E ratio, EPS, market capitalization, dividend yield, beta; each defined inline with parenthetical
-8. **Side-by-Side Setup** — How this chapter's content maps to Chapter 3 for direct comparison
+Legal structures, regulatory requirements, and compliance obligations discussed in this book are general in nature. Readers should consult a licensed attorney for legal advice applicable to their jurisdiction and circumstances.
 
-## Key Data Needed
-- Current number of publicly traded companies (World Federation of Exchanges)
-- Historical growth of retail investor participation (Gallup, Federal Reserve SCF)
-- Index fund market share growth over time (ICI data)
-- Expense ratio comparison: active vs. passive funds
+The fictional personas and case studies presented in this book are entirely hypothetical. They are designed to illustrate concepts and should not be interpreted as recommendations for any specific course of action. Any resemblance to real individuals is coincidental.
 
-## Key Takeaways
-- [To be written during drafting]
+The author and publisher disclaim any liability for losses or damages — direct, indirect, incidental, or consequential — arising from the use of information contained in this book.
+
+**Before making any investment decision, readers are strongly encouraged to consult with qualified, licensed professionals including financial advisors, tax professionals, and attorneys.**
 
 ---
 
-*Status: Placeholder — to be drafted*
+*© [Year] [Author Name]. All rights reserved.*

@@ -1,37 +1,70 @@
-# Chapter 4 — The Language of Investing: Key Metrics for Stocks and Real Estate Side by Side
+# Cover
 
-<!-- DRAFT PLACEHOLDER — Target: 2,500 words -->
+## Front Cover
 
-> "If you can't explain it simply, you don't understand it well enough."
-> — Attributed to Albert Einstein
+### Title
+**Stocks vs. Real Estate**
 
----
+### Subtitle
+A Comprehensive Guide to Building Wealth Through the Two Most Popular Asset Classes
 
-## Planned Sections
+### Author
+[Author Name]
 
-1. **Why Metrics Matter** — Comparing apples to apples; the danger of comparing raw numbers without context
-2. **Return Metrics Compared** — Total return (stocks) vs. total return (real estate); dividend yield vs. rental yield; capital appreciation in each
-3. **Risk Metrics Compared** — Beta and standard deviation (stocks) vs. vacancy rate, market cycle risk, location risk (real estate)
-4. **Leverage Metrics Compared** — Margin (stocks, Reg T limits) vs. LTV / loan-to-value (real estate, typical 75–80%)
-5. **Valuation Metrics Compared** — P/E ratio and price-to-book (stocks) vs. cap rate and price-per-square-foot (real estate)
-6. **Income Metrics Compared** — EPS and dividend payout ratio (stocks) vs. NOI and cash-on-cash return (real estate)
-7. **Master Comparison Table** — All key metrics mapped side by side in a single reference table
-8. **How to Use These Metrics** — Framework for Part II; these metrics will be applied throughout the comparison chapters
+### Cover Image
+<!-- Insert cover image path below -->
+<!-- ![Front Cover](path/to/cover-image.png) -->
 
-## Master Comparison Table (Draft Structure)
+*Cover image pending. See DESIGN_GUIDE.md for cover design brief.*
 
-| Category | Stock Metric | Real Estate Metric | What It Measures |
-|----------|-------------|-------------------|-----------------|
-| Valuation | P/E Ratio | Cap Rate | Price relative to earnings/income |
-| Income | Dividend Yield | Cash-on-Cash Return | Income relative to investment |
-| Profitability | EPS | NOI | Earnings/income generated |
-| Risk | Beta | Vacancy Rate | Sensitivity to market/demand |
-| Leverage | Margin Ratio | LTV Ratio | Borrowed capital relative to total |
-| Growth | Revenue Growth | Appreciation Rate | Asset value increase over time |
-
-## Key Takeaways
-- [To be written during drafting]
+### Design Direction
+- **Mood:** Authoritative, modern, clean
+- **Color treatment:** Deep Navy (#1B2A4A) and Warm Terracotta (#C4572A) split composition
+- **Title font:** Playfair Display, Bold
+- **Subtitle font:** Source Sans 3, Light
+- **Author name font:** Source Sans 3, Regular
+- **Accent:** Gold (#C9A84C) for title underline or decorative element
 
 ---
 
-*Status: Placeholder — to be drafted*
+## Spine
+
+- **Background:** Deep Navy (#1B2A4A)
+- **Title:** Playfair Display, Bold, Warm White
+- **Author:** Source Sans 3, Regular, Warm White
+
+---
+
+## Back Cover
+
+### Blurb
+
+[150–200 word summary of the book to be written after manuscript completion. Should cover: what the book is about, what the reader will gain, and why this book is different from other investment books.]
+
+### What Readers Will Learn
+
+- How stocks and real estate compare across eight critical investment dimensions
+- Evidence-based analysis of returns, risk, cash flow, taxes, and more — without bias toward either asset
+- Practical decision-making frameworks to identify the right investment path based on individual goals and circumstances
+
+### Author Bio
+
+[Author biography — 80–120 words. Include relevant credentials, professional background, and motivation for writing the book.]
+
+### ISBN / Barcode Area
+
+- **ISBN-13:** [To be assigned]
+- **Barcode placement:** Bottom-right of back cover
+
+---
+
+## Edition Marking
+
+| Edition | Marking |
+|---------|---------|
+| 1st Edition | No badge (clean cover) |
+| 2nd Edition+ | Gold badge, top-right: "2nd Edition — Revised and Updated" |
+
+---
+
+*Refer to design/DESIGN_GUIDE.md → Cover Design Brief for full specifications.*

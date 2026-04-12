@@ -1,83 +1,144 @@
-# Legal Review Tracker
+# Color Palette
 
-## Purpose
-Every tax rule, regulation, legal structure, and compliance-related claim in this book must be verified against current law and properly attributed. This tracker ensures legal accuracy and flags items that may change between editions.
-
----
-
-## Status Key
-
-| Symbol | Status |
-|--------|--------|
-| ⬜ | Not yet reviewed |
-| 🟡 | Drafted — needs legal verification |
-| 🟢 | Verified against current law/regulation |
-| 🔴 | Outdated or incorrect — needs update |
-| 🔵 | Updated for new edition |
+Visual color system for *Stocks vs. Real Estate: A Comprehensive Guide to Building Wealth Through the Two Most Popular Asset Classes.*
 
 ---
 
-## Legal Claims Log
+## Primary Colors
 
-### Tax-Related Claims
+These two colors anchor the book's core identity. Every comparison-driven element is coded to one of these two hues so the reader instinctively knows which asset class is being discussed before reading a word.
 
-| # | Claim | Legal Reference | Jurisdiction | Verified Date | Status | Chapter | Notes |
-|---|-------|----------------|-------------|---------------|--------|---------|-------|
-| T.01 | Long-term capital gains tax rates | IRC §1(h) | US Federal | | ⬜ | Ch. 9 | Rates may change with new legislation |
-| T.02 | 1031 Exchange rules | IRC §1031 | US Federal | | ⬜ | Ch. 9 | |
-| T.03 | Depreciation of rental property | IRC §167, §168 | US Federal | | ⬜ | Ch. 9 | 27.5-year schedule for residential |
-| T.04 | Qualified dividends tax treatment | IRC §1(h)(11) | US Federal | | ⬜ | Ch. 9 | |
-| T.05 | Wash sale rule | IRC §1091 | US Federal | | ⬜ | Ch. 9 | |
-| T.06 | Primary residence exclusion | IRC §121 | US Federal | | ⬜ | Ch. 9 | $250K single / $500K married |
-| T.07 | Passive activity loss rules | IRC §469 | US Federal | | ⬜ | Ch. 9 | |
-| T.08 | NIIT (Net Investment Income Tax) | IRC §1411 | US Federal | | ⬜ | Ch. 9 | 3.8% surcharge |
-| T.09 | State tax considerations | Various | State-level | | ⬜ | Ch. 9 | Note variation by state |
-| T.10 | Estate tax and step-up in basis | IRC §1014 | US Federal | | ⬜ | Ch. 9 | |
+### Deep Navy — Stocks
+- **Hex:** `#1B2A4A`
+- **RGB:** 27, 42, 74
+- **CMYK:** 64, 43, 0, 71 (print reference)
+- **Use:** All stocks-related column headers, stocks-side table cells, stocks-themed chapter accent bars, stocks icon backgrounds, stocks label badges.
+- **Psychological intent:** Authority, precision, institutional trust. Blue is strongly associated with financial markets, brokerage interfaces, and analytical rigor.
 
-### Regulatory Claims
-
-| # | Claim | Regulatory Body | Reference | Verified Date | Status | Chapter | Notes |
-|---|-------|----------------|-----------|---------------|--------|---------|-------|
-| R.01 | SEC regulation of securities | SEC | Securities Act of 1933, Exchange Act of 1934 | | ⬜ | Ch. 2 | |
-| R.02 | FINRA broker-dealer oversight | FINRA | FINRA Rules | | ⬜ | Ch. 2 | |
-| R.03 | Accredited investor definition | SEC | Regulation D, Rule 501 | | ⬜ | Ch. 12 | Income/net worth thresholds |
-| R.04 | Fair Housing Act implications | HUD | Fair Housing Act (1968) | | ⬜ | Ch. 3 | |
-| R.05 | Dodd-Frank mortgage rules | CFPB | Dodd-Frank Act, Title XIV | | ⬜ | Ch. 11 | |
-| R.06 | REIT qualification rules | IRS/SEC | IRC §856–860 | | ⬜ | Ch. 3 | 90% distribution requirement |
-
-### Legal Structure Claims
-
-| # | Claim | Structure Type | Reference | Verified Date | Status | Chapter | Notes |
-|---|-------|---------------|-----------|---------------|--------|---------|-------|
-| L.01 | LLC for rental property | Entity structure | State LLC statutes | | ⬜ | Ch. 9 | Varies by state |
-| L.02 | S-Corp vs. C-Corp for holding | Entity structure | IRC Subchapter S | | ⬜ | Ch. 9 | |
-| L.03 | Self-directed IRA for real estate | Retirement vehicle | IRC §408 | | ⬜ | Ch. 15 | |
-| L.04 | Brokerage account types | Account structure | SEC/IRS regulations | | ⬜ | Ch. 2 | Taxable, IRA, Roth, 401(k) |
-| L.05 | Syndication legal requirements | Securities law | SEC Regulation D | | ⬜ | Ch. 3 | |
+### Warm Terracotta — Real Estate
+- **Hex:** `#C4572A`
+- **RGB:** 196, 87, 42
+- **CMYK:** 0, 56, 79, 23 (print reference)
+- **Use:** All real estate-related column headers, RE-side table cells, real estate chapter accent bars, RE icon backgrounds, RE label badges.
+- **Psychological intent:** Warmth, tangibility, the physical world. Terracotta evokes bricks, land, and the built environment — grounded and material in contrast to the abstract nature of securities.
 
 ---
 
-## Edition Sensitivity Flags
+## Secondary Colors
 
-Items most likely to need updating in future editions:
+Secondary colors mark specific types of content across both asset classes. They are not asset-class-specific; they convey meaning about the *nature* of the information, not its subject.
 
-| Priority | Item | Reason |
-|----------|------|--------|
-| 🔴 High | Capital gains tax rates | Subject to congressional legislation |
-| 🔴 High | 1031 Exchange rules | Periodically targeted for reform |
-| 🔴 High | Accredited investor thresholds | SEC reviews periodically |
-| 🟡 Medium | Depreciation schedules | Changed by Tax Cuts and Jobs Act (2017); may change again |
-| 🟡 Medium | SALT deduction cap | Set to expire/change |
-| 🟡 Medium | Estate tax exemption amounts | Scheduled sunset of TCJA provisions |
-| 🟢 Low | Basic LLC/entity structures | Relatively stable |
-| 🟢 Low | SEC/FINRA general oversight | Structural, unlikely to change fundamentally |
+### Forest Green — Growth and Positive Indicators
+- **Hex:** `#2E7D4F`
+- **RGB:** 46, 125, 79
+- **CMYK:** 63, 0, 37, 51 (print reference)
+- **Use:** Positive return figures, "Reality" side of myth-busting callouts, upward trend indicators, favorable comparison cells, success markers in case studies.
+- **Psychological intent:** Prosperity, forward momentum, optimism. Universally understood as the color of financial gain.
+
+### Muted Purple — Myths and Misconceptions
+- **Hex:** `#6B5B7B`
+- **RGB:** 107, 91, 123
+- **CMYK:** 13, 26, 0, 52 (print reference)
+- **Use:** "Myth" side borders and labels in myth-busting callouts, misconception headers, belief-challenge sections, behavioral bias sidebars.
+- **Psychological intent:** Caution, complexity, intellectual inquiry. Purple occupies an ambiguous space that signals "this requires re-examination" without the alarm of red.
 
 ---
 
-## Verification Standards
+## Accent Color
 
-1. **Primary sources only:** IRS publications, SEC releases, actual statutory text (IRC), CFPB rules
-2. **Secondary verification:** Cross-reference with CPA/tax attorney publications (e.g., Journal of Accountancy, Tax Foundation)
-3. **Date sensitivity:** All tax rates and thresholds must state the tax year they apply to
-4. **Jurisdiction clarity:** Every legal claim must state whether it is federal, state-specific, or general
-5. **Disclaimer integration:** The book's disclaimer must note that tax laws and regulations change and readers should consult qualified professionals
+### Gold — Key Takeaways, Highlights, and Decorative Elements
+- **Hex:** `#C9A84C`
+- **RGB:** 201, 168, 76
+- **CMYK:** 0, 16, 62, 21 (print reference)
+- **Use:** Left border on Key Takeaway boxes, chapter number ornaments, pull-quote quotation marks, decorative dividers, star/highlight icons, cover foil accent.
+- **Psychological intent:** Value, importance, premium quality. Gold draws the eye to the most important distillations of each chapter without shouting.
+
+---
+
+## Neutral Palette
+
+Neutrals carry the majority of the page surface. They are chosen for warmth rather than coldness — this book is authoritative but not sterile.
+
+### Warm White — Primary Background
+- **Hex:** `#FAF8F5`
+- **RGB:** 250, 248, 245
+- **Use:** Page background, interior of callout boxes, table alternating-row fill (paired with white `#FFFFFF`), Key Takeaway box interior.
+- **Note:** Slightly warm rather than pure white to reduce eye fatigue in long reading sessions and to complement the Terracotta and Gold accents.
+
+### Charcoal — Primary Body Text
+- **Hex:** `#2D2D2D`
+- **RGB:** 45, 45, 45
+- **Use:** All body copy, table cell text, caption text, definition text.
+- **Note:** Near-black rather than pure black (`#000000`) softens the contrast against Warm White and reduces harshness on both print and screen.
+
+### Slate Gray — Secondary Text
+- **Hex:** `#6B7280`
+- **RGB:** 107, 114, 128
+- **Use:** Captions, attributions on quotes, footnote-style annotations, table sub-headers, secondary labels, placeholder and helper text.
+- **Note:** Provides clear hierarchy below Charcoal without disappearing into the background.
+
+---
+
+## Color Pairing Rules
+
+### Asset-Class Pairing
+- Deep Navy and Warm Terracotta should **always appear together** in comparison contexts. Never use one without the other in a two-column comparison table — asymmetry breaks the visual logic.
+- In single-asset-class discussions (a chapter section focusing only on stocks, for example), use only the relevant primary color with neutral support.
+
+### Accent Restraint
+- Gold should **never** be used as a large fill color. It is exclusively a border, rule line, ornament, or small icon color. Overuse degrades its "premium signal."
+- Do not use Gold on text — it fails contrast thresholds on both Warm White and Charcoal backgrounds.
+
+### Secondary Color Exclusivity
+- Forest Green is reserved strictly for genuinely positive content. Do not apply it to neutral comparisons or data points that are positive in some scenarios and negative in others.
+- Muted Purple is reserved for myth/misconception contexts. Do not use it as a general accent — its meaning must remain unambiguous throughout the book.
+
+### Background Combinations
+- Warm White background + Charcoal text: primary reading experience.
+- Deep Navy background + white text: stocks column headers, chapter part openers for stock-focused sections.
+- Warm Terracotta background + white text: real estate column headers, chapter part openers for RE-focused sections.
+- Muted Purple background (10% tint) + Charcoal text: Myth callout box fill.
+- Forest Green background (10% tint) + Charcoal text: Reality callout box fill.
+- Gold border + Warm White fill + Charcoal text: Key Takeaway boxes.
+
+---
+
+## Accessibility Notes
+
+All color combinations used for text must meet **WCAG 2.1 AA contrast standards** (minimum ratio of 4.5:1 for normal text, 3:1 for large text and UI components).
+
+| Foreground | Background | Contrast Ratio | WCAG AA Status |
+|------------|-----------|----------------|----------------|
+| Charcoal `#2D2D2D` | Warm White `#FAF8F5` | ~14.5:1 | Pass |
+| White `#FFFFFF` | Deep Navy `#1B2A4A` | ~12.1:1 | Pass |
+| White `#FFFFFF` | Warm Terracotta `#C4572A` | ~4.6:1 | Pass (large text only recommended) |
+| White `#FFFFFF` | Forest Green `#2E7D4F` | ~5.1:1 | Pass |
+| White `#FFFFFF` | Muted Purple `#6B5B7B` | ~5.4:1 | Pass |
+| Charcoal `#2D2D2D` | Forest Green tint 10% `#EBF4EF` | ~12.8:1 | Pass |
+| Charcoal `#2D2D2D` | Muted Purple tint 10% `#F0EEF2` | ~13.9:1 | Pass |
+
+**Important:** Do not place Charcoal text directly on Warm Terracotta — the contrast ratio (~3.2:1) does not meet AA for body-sized text. Use white text on Terracotta backgrounds only.
+
+---
+
+## Component–Color Usage Table
+
+| Component | Primary Color | Secondary/Fill | Text Color | Border/Accent |
+|-----------|--------------|----------------|------------|---------------|
+| Stocks column header | Deep Navy `#1B2A4A` | — | White `#FFFFFF` | — |
+| Real Estate column header | Warm Terracotta `#C4572A` | — | White `#FFFFFF` | — |
+| Table alternating row (odd) | — | White `#FFFFFF` | Charcoal `#2D2D2D` | — |
+| Table alternating row (even) | — | Warm White `#FAF8F5` | Charcoal `#2D2D2D` | — |
+| Key Takeaway box | — | Warm White `#FAF8F5` | Charcoal `#2D2D2D` | Gold `#C9A84C` (left, 4px) |
+| Myth callout | — | Muted Purple tint 10% | Charcoal `#2D2D2D` | Muted Purple `#6B5B7B` (left, 4px) |
+| Reality callout | — | Forest Green tint 10% | Charcoal `#2D2D2D` | Forest Green `#2E7D4F` (left, 4px) |
+| Persona/case study block | — | Warm White `#FAF8F5` | Charcoal `#2D2D2D` | Slate Gray `#6B7280` (dashed, 1px) |
+| Opening quote block | — | — | Slate Gray `#6B7280` | — |
+| Chapter number ornament | Gold `#C9A84C` | — | — | — |
+| Pull-quote marks | Gold `#C9A84C` | — | — | — |
+| Inline term (bold) | — | — | Charcoal `#2D2D2D` | — |
+| Caption / attribution text | — | — | Slate Gray `#6B7280` | — |
+| Positive data cell | — | Forest Green tint 10% | Charcoal `#2D2D2D` | — |
+| Cover background (stocks side) | Deep Navy `#1B2A4A` | — | White `#FFFFFF` | — |
+| Cover background (RE side) | Warm Terracotta `#C4572A` | — | White `#FFFFFF` | — |
+| Cover title text | — | — | White `#FFFFFF` | Gold `#C9A84C` (decorative rule) |

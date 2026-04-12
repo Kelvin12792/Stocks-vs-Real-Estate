@@ -1,32 +1,29 @@
-# Chapter 12 — Barrier to Entry: How Much Do You Need to Start?
+# Chapter 1 — The Wealth-Building Landscape: A Brief History of Stocks and Real Estate
 
 <!-- DRAFT PLACEHOLDER — Target: 3,000 words -->
-<!-- Persona: Priya Sharma, 31, marketing manager, Denver CO -->
-<!-- Comparison Dimension: Barrier to Entry -->
+<!-- Case Study: 2008 Financial Crisis — divergent impact on stocks vs. real estate -->
 
-> "A journey of a thousand miles begins with a single step."
-> — Lao Tzu, *Tao Te Ching*
+> "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it."
+> — Widely attributed to Albert Einstein (attribution uncertain; noted in text)
 
 ---
 
 ## Planned Sections
 
-1. **Capital Requirements** — Stocks: as low as $1 with fractional shares, $0 commissions at major brokerages; Real estate: typically $15,000–$60,000+ for a down payment, plus closing costs, reserves
-2. **Knowledge Barrier** — Stocks: index investing requires minimal knowledge; active stock picking requires significant study; Real estate: understanding local markets, deal analysis, tenant law, maintenance
-3. **Credit and Qualification** — Stocks: open a brokerage account with basic ID; Real estate: credit score requirements (typically 620+ conventional, 580+ FHA), debt-to-income ratios, income verification, appraisal
-4. **Time-to-First-Investment** — Stocks: open account and invest in minutes; Real estate: months from decision to closing
-5. **Alternative Low-Barrier Entry Points** — REITs (as low as one share price), real estate crowdfunding (minimums of $500–$10,000), index funds ($0–$3,000 minimums), fractional shares
-6. **Geographic Barrier** — Stocks: location-independent, invest from anywhere; Real estate: location-dependent, local market knowledge matters, remote investing adds complexity
-7. **Accredited Investor Requirements** — SEC Regulation D, Rule 501; income ($200K/$300K) and net worth ($1M) thresholds for certain real estate syndications and private placements
-8. **Side-by-Side Barrier to Entry Comparison Table**
-9. **Persona: Priya Sharma** — Has $20,000 saved and $28,000 in student loans; evaluating whether she can realistically enter either asset class today
+1. **How Ordinary People Gained Access to Stock Markets** — From elite clubs and bucket shops to discount brokers and commission-free apps; the democratization of equity ownership
+2. **The Evolution of Real Estate as an Investment** — From homesteading and the Homestead Act (1862) through post-WWII suburbanization, the S&L crisis, securitization, and modern real estate investing
+3. **A Century of Returns** — Stocks and real estate side by side over the long view, nominal and inflation-adjusted; reference Jordà et al. (2019) "The Rate of Return on Everything"
+4. **Key Historical Inflection Points** — Great Depression, post-WWII housing boom, stagflation of the 1970s, dot-com bubble, 2008 financial crisis, post-COVID boom
+5. **What History Teaches — And What It Does Not** — Survivorship bias, changing market structures, dangers of extrapolating past returns
+6. **Side-by-Side Comparison Table** — Historical performance across major eras
+7. **Case Study: The 2008 Financial Crisis** — How the S&P 500 fell ~57% from peak to trough while national home prices fell ~27% (Case-Shiller); differential recovery timelines; lessons
 
 ## Key Data Needed
-- Minimum investment amounts at major brokerages (Fidelity, Schwab, Vanguard)
-- Average down payment for first-time homebuyers (NAR)
-- Average closing costs by state (ClosingCorp)
-- SEC accredited investor thresholds (current)
-- Real estate crowdfunding minimum investment amounts
+- S&P 500 returns by decade 1926–present (NYU Stern / Damodaran)
+- National home price appreciation by decade (S&P/Case-Shiller Index)
+- Jordà, Knoll, Kuvshinov, Schularick, Taylor (2019) — cross-country returns data
+- Federal Reserve SCF data on household wealth composition over time
+- Key crash/recovery timelines for both asset classes
 
 ## Key Takeaways
 - [To be written during drafting]

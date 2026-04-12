@@ -1,68 +1,32 @@
-# Edition Log
+# License
 
-## Purpose
-Tracks all substantive changes between editions of *Stocks vs. Real Estate*. Each entry records what changed, why, and when.
+## Copyright
 
----
-
-## 1st Edition
-
-| Field | Detail |
-|-------|--------|
-| **Status** | In Development |
-| **Publication Date** | TBD |
-| **Word Count** | Target: 50,000+ |
-| **ISBN** | TBD |
-| **Formats** | Print, Ebook, PDF |
-
-### Content Scope
-- 18 chapters across 4 parts
-- 4 appendices
-- Full glossary
-- US-primary focus with global context
-- Data current as of [year of publication]
+© [Year] [Author Name]. All rights reserved.
 
 ---
 
-## 2nd Edition (Future)
+## Terms
 
-| Field | Detail |
-|-------|--------|
-| **Status** | Not Started |
-| **Trigger** | See EDITION_PLAN.md for planned updates |
-
-### Expected Changes
-*To be populated after 1st edition publication based on:*
-- Reader feedback
-- Regulatory changes (tax law, SEC rules)
-- Market data updates
-- New investment vehicles or platforms
-- Errata corrections from ERRATA.md
+This manuscript and all associated materials in this repository are the intellectual property of the author. No part of this work may be reproduced, distributed, or transmitted in any form or by any means — including photocopying, recording, or other electronic or mechanical methods — without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 ---
 
-## Change Log Template (For Future Editions)
+## Permissions
 
-```markdown
-## [Edition] — [Date]
+For permission requests, contact:
 
-### Added
-- New chapters or sections
+- **Email:** [author email]
+- **Website:** [author website]
 
-### Updated
-- Revised data, statistics, or calculations
-- Updated tax rates, regulations, or legal references
-- Refreshed case studies or personas
+---
 
-### Corrected
-- Factual errors from ERRATA.md
-- Calculation corrections
+## Edition History
 
-### Removed
-- Outdated content no longer relevant
+| Edition | Year | Notes |
+|---------|------|-------|
+| 1st Edition | [Year] | Initial publication |
 
-### Data Refresh
-| Data Point | Old Value | New Value | Source |
-|-----------|-----------|-----------|--------|
-| | | | |
-```
+---
+
+*This license applies to the manuscript text, planning documents, and original content within this repository. Third-party data, quotes, and referenced materials remain the property of their respective owners and are used under fair use for educational purposes.*

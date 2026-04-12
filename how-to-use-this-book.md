@@ -1,32 +1,30 @@
-# Chapter 3 — Understanding Real Estate: Property, Equity, and How It Works
+# How to Use This Book
 
-<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
+<!-- DRAFT PLACEHOLDER — To be fully written during drafting phase -->
+<!-- Target: ~1,000 words -->
+<!-- See OUTLINE.md for full scope of this section -->
 
-> "Buy land, they're not making it anymore."
-> — Widely attributed to Mark Twain
+## Scope
 
----
+This section will cover:
 
-## Planned Sections
+- **The book's neutral stance** — Explanation that this book does not advocate for stocks over real estate or vice versa. The goal is to present objective, research-based analysis and let the reader make their own informed decision.
 
-1. **What Real Estate Investing Actually Means** — Distinction between buying a home to live in and investing in real estate for returns; the asset class vs. the lifestyle choice
-2. **Types of Real Estate Investments** — Single-family rentals, multifamily (duplex, triplex, apartment buildings), commercial (office, retail, industrial), raw land, mixed-use
-3. **Indirect Real Estate Exposure** — REITs (equity vs. mortgage), real estate crowdfunding platforms, syndications, real estate mutual funds/ETFs (mentioned per blueprint — not full chapters)
-4. **How Real Estate Transactions Work** — Finding deals, due diligence process, inspections, appraisals, closing process, title insurance, escrow
-5. **Property Management** — Self-management vs. professional management; typical management fees (8–12% of gross rent); responsibilities and legal obligations
-6. **Key Real Estate Metrics Introduced** — Cap rate (capitalization rate), cash-on-cash return, NOI (net operating income), GRM (gross rent multiplier), appreciation rate, vacancy rate; each defined inline
-7. **The Role of the Mortgage** — How financing fundamentally changes the real estate investment equation; preview of leverage chapter (Ch. 11)
-8. **REIT Qualification Rules** — 90% distribution requirement (IRC §856–860); noted for LEGAL_REVIEW.md
+- **Structure guide** — How the four parts build on each other:
+  - Part I lays the foundation (what each asset class is and how it works)
+  - Part II provides the head-to-head comparison across eight dimensions
+  - Part III addresses the psychological and mythological barriers to clear thinking
+  - Part IV brings it all together with combined strategies and decision frameworks
 
-## Key Data Needed
-- Homeownership rate in the US (Census Bureau)
-- Breakdown of real estate investment types by market size
-- Average property management fees (NARPM surveys)
-- REIT market capitalization (NAREIT)
-- Average closing costs by state (ClosingCorp / Bankrate)
+- **How to read comparison tables** — Brief explanation of the side-by-side format used throughout Part II, including the color coding system (Navy for stocks, Terracotta for real estate)
 
-## Key Takeaways
-- [To be written during drafting]
+- **Personas and case studies** — Note that the book uses fictional investor profiles to illustrate concepts. These are not recommendations — they are analytical tools.
+
+- **Inline definitions** — When a technical term appears for the first time, it is defined in bold with a parenthetical explanation. A comprehensive glossary is available in the back of the book.
+
+- **Decision framework** — Chapter 17 provides three self-assessment tools (scoring model, decision tree, persona matching). Readers are encouraged to read the full book before completing these frameworks, as each chapter builds understanding needed for accurate self-assessment.
+
+- **A note on data** — All statistics, returns, and calculations reference their source and date. Markets change. Laws change. Readers should verify current figures, especially for tax rates and regulatory thresholds, before making decisions.
 
 ---
 

@@ -1,106 +1,148 @@
-# Research Sources
+# Chapter Template
 
-## Purpose
-Master list of books, speeches, articles, and expert perspectives to reference throughout the manuscript. Organized by category and mapped to relevant chapters.
+## Instructions
+
+Copy this template when starting a new chapter. Replace every placeholder (shown in `ALL_CAPS` or inside `< >`) with the actual content. Do not delete section headings — if a section is not applicable, write a brief note explaining why rather than removing the heading. Remove these instructions before submitting a draft for review.
+
+---
+---
+
+<!-- COPY BELOW THIS LINE -->
+
+# <Chapter Title>
+
+<!-- TARGET: ~<word count> words | PERSONA: <primary persona from PERSONAS.md> | DIMENSION: <comparison dimension, e.g., "Liquidity"> -->
+
+> "<Quote text here.>"
+>
+> — <Attribution, *Source Title* (Year)>
+>
+> *(See QUOTES_BANK.md for pre-vetted options, or propose a new quote for approval.)*
 
 ---
 
-## Books
+## Introduction
 
-### Stocks and Market Investing
+<!-- 300–500 words. Set the stage for the comparison dimension this chapter covers. Establish why this dimension matters to the reader's financial life. Introduce the central tension between stocks and real estate on this topic. End with a one- or two-sentence preview of what the chapter will show. Do NOT make a conclusion here — the reader hasn't seen the evidence yet. -->
 
-| Title | Author | Year | Key Contribution | Relevant Chapters |
-|-------|--------|------|------------------|-------------------|
-| *The Intelligent Investor* | Benjamin Graham | 1949 (rev. 2006) | Value investing principles, margin of safety, Mr. Market allegory | Ch. 2, 6, 14 |
-| *A Random Walk Down Wall Street* | Burton Malkiel | 1973 (rev. 2023) | Efficient market hypothesis, index investing case | Ch. 2, 5, 13 |
-| *Common Stocks and Uncommon Profits* | Philip Fisher | 1958 | Growth investing, qualitative analysis | Ch. 2, 5 |
-| *The Little Book of Common Sense Investing* | John C. Bogle | 2007 | Index fund investing, cost minimization | Ch. 2, 5, 8 |
-| *One Up on Wall Street* | Peter Lynch | 1989 | Individual stock selection, invest in what you know | Ch. 2, 14 |
-| *Stocks for the Long Run* | Jeremy Siegel | 1994 (rev. 2022) | Long-term equity returns data, stocks vs. other assets | Ch. 1, 5, 6 |
-| *The Four Pillars of Investing* | William Bernstein | 2002 | Investment theory, history, psychology, business | Ch. 1, 5, 14, 15 |
-
-### Real Estate Investing
-
-| Title | Author | Year | Key Contribution | Relevant Chapters |
-|-------|--------|------|------------------|-------------------|
-| *Rich Dad Poor Dad* | Robert Kiyosaki | 1997 | Assets vs. liabilities framing, real estate advocacy | Ch. 3, 7, 13 |
-| *The Millionaire Real Estate Investor* | Gary Keller | 2005 | Systematic approach to RE investing, models | Ch. 3, 7, 12 |
-| *The Book on Rental Property Investing* | Brandon Turner | 2015 | Practical rental property mechanics | Ch. 3, 7, 8, 11 |
-| *Real Estate Investing Gone Bad* | Phil Pustejovsky | 2015 | Real estate mistakes and failures — risk reality | Ch. 6, 13 |
-| *The ABCs of Real Estate Investing* | Ken McElroy | 2004 | Cash flow analysis, property management | Ch. 3, 7, 8 |
-
-### Behavioral Finance and Psychology
-
-| Title | Author | Year | Key Contribution | Relevant Chapters |
-|-------|--------|------|------------------|-------------------|
-| *Thinking, Fast and Slow* | Daniel Kahneman | 2011 | Prospect theory, cognitive biases, System 1/System 2 | Ch. 14 |
-| *Misbehaving* | Richard Thaler | 2015 | Behavioral economics, endowment effect, nudges | Ch. 14 |
-| *The Psychology of Money* | Morgan Housel | 2020 | Behavioral approach to personal finance | Ch. 14, 18 |
-| *Irrational Exuberance* | Robert Shiller | 2000 (rev. 2015) | Market bubbles in stocks and real estate | Ch. 1, 6, 13 |
-| *Nudge* | Richard Thaler & Cass Sunstein | 2008 | Choice architecture, decision-making | Ch. 17 |
-
-### Wealth Building and Financial Planning
-
-| Title | Author | Year | Key Contribution | Relevant Chapters |
-|-------|--------|------|------------------|-------------------|
-| *The Bogleheads' Guide to Investing* | Larimore, Lindauer, LeBoeuf | 2006 | Practical index investing implementation | Ch. 2, 5, 15 |
-| *I Will Teach You to Be Rich* | Ramit Sethi | 2009 (rev. 2019) | Accessible personal finance for young professionals | Ch. 12, 18 |
-| *The Simple Path to Wealth* | JL Collins | 2016 | Simplicity in investing, stock market advocacy | Ch. 2, 5, 15 |
-| *Your Money or Your Life* | Vicki Robin | 1992 (rev. 2018) | Financial independence, relationship with money | Ch. 18 |
+<Introduction content here.>
 
 ---
 
-## Speeches and Lectures
+## The Stocks Perspective
 
-| Speaker | Title/Context | Year | Key Quote/Idea | Relevant Chapters |
-|---------|--------------|------|----------------|-------------------|
-| Warren Buffett | Berkshire Hathaway Annual Shareholder Letters | Annual | Patience, value, long-term compounding | Ch. 1, 5, 14 |
-| Charlie Munger | Various USC/Daily Journal speeches | Various | Mental models, avoiding stupidity | Ch. 14, 17 |
-| John Bogle | Various Vanguard speeches | Various | Index investing, cost matters | Ch. 2, 5 |
-| Ray Dalio | TED Talk: "How the Economic Machine Works" | 2013 | Economic cycles, debt, deleveraging | Ch. 1, 6, 11 |
-| Robert Shiller | Nobel Prize Lecture | 2013 | Speculative bubbles, irrational exuberance in RE and stocks | Ch. 1, 6, 13 |
-| Howard Marks | Oaktree Capital Memos | Ongoing | Risk, market cycles, second-level thinking | Ch. 6, 14 |
+<!-- Explain how stocks behave with respect to this chapter's comparison dimension. Use specific data, historical examples, and named sources. Cite figures that will be logged in FACT_CHECK.md. Be fair — acknowledge limitations as well as strengths. Approximate length: 400–600 words. -->
+
+<Stocks perspective content here.>
 
 ---
 
-## Philosopher and Thinker References
+## The Real Estate Perspective
 
-| Thinker | Era | Key Idea | Potential Use | Relevant Chapters |
-|---------|-----|----------|---------------|-------------------|
-| Seneca | Roman Stoic (4 BC–65 AD) | Wealth as a tool, not a master; preparation for adversity | Opening quotes, risk chapter | Ch. 6, 18 |
-| Aristotle | Greek (384–322 BC) | The golden mean — balance in all things | Combined portfolio, balance | Ch. 15, 17 |
-| Benjamin Franklin | American (1706–1790) | Thrift, compound interest, practical wisdom | Returns, compounding, discipline | Ch. 5, 14 |
-| Nassim Nicholas Taleb | Contemporary | Black swans, antifragility, skin in the game | Risk, volatility, uncertainty | Ch. 6, 13, 16 |
-| Adam Smith | Scottish (1723–1790) | Markets, invisible hand, self-interest and public good | Market mechanics, stocks | Ch. 1, 2 |
-| Henry David Thoreau | American (1817–1862) | Simplicity, cost of things measured in life spent earning them | Time and effort, true cost | Ch. 8, 18 |
-| Epictetus | Greek Stoic (50–135 AD) | Control what you can, accept what you cannot | Psychology, emotional discipline | Ch. 14 |
-| Lao Tzu | Chinese (6th century BC) | Patience, non-action (wu wei), long-term thinking | Patience in investing, buy-and-hold | Ch. 5, 14, 18 |
+<!-- Explain how real estate behaves with respect to this chapter's comparison dimension. Use specific data, historical examples, and named sources. Cite figures that will be logged in FACT_CHECK.md. Be fair — acknowledge limitations as well as strengths. Approximate length: 400–600 words. -->
+
+<Real estate perspective content here.>
 
 ---
 
-## Academic Papers and Studies
+## Side-by-Side Comparison
 
-| Paper/Study | Authors | Year | Journal/Publisher | Key Finding | Relevant Chapters |
-|-------------|---------|------|-------------------|-------------|-------------------|
-| Prospect Theory | Kahneman & Tversky | 1979 | Econometrica | Loss aversion quantified | Ch. 14 |
-| Portfolio Selection | Harry Markowitz | 1952 | Journal of Finance | Modern Portfolio Theory, diversification | Ch. 15 |
-| The Rate of Return on Everything | Jordà, Knoll, Kuvshinov, Schularick, Taylor | 2019 | Quarterly Journal of Economics | 150 years of returns: stocks vs. housing across 16 countries | Ch. 1, 5 |
-| QAIB Report | Dalbar Inc. | Annual | Dalbar | Investor behavior gap — actual vs. market returns | Ch. 14 |
-| Housing Wealth Effects | Case, Quigley, Shiller | 2005 | Brookings Papers | How housing wealth affects consumer spending | Ch. 5, 7 |
+<!-- This section MUST include at least one comparison table. The table should make the key differences visually immediate. Additional tables are encouraged where they add clarity. Follow with 2–3 paragraphs of prose interpreting the table(s) — do not let the table stand alone without narrative context. -->
+
+| Factor | Stocks | Real Estate |
+|--------|--------|-------------|
+| <Factor 1> | <Stock value> | <RE value> |
+| <Factor 2> | <Stock value> | <RE value> |
+| <Factor 3> | <Stock value> | <RE value> |
+| <Factor 4> | <Stock value> | <RE value> |
+| <Factor 5> | <Stock value> | <RE value> |
+
+<Interpretive prose here — 2–3 paragraphs explaining what the table shows, what nuances it cannot capture, and what the reader should take from the comparison.>
 
 ---
 
-## Institutional and Government Sources
+## Case Study / Persona Analysis
 
-| Source | Type | URL | Data Provided | Relevant Chapters |
-|--------|------|-----|---------------|-------------------|
-| Federal Reserve (FRED) | Economic data | fred.stlouisfed.org | Interest rates, inflation, monetary data | Ch. 1, 5, 6, 11 |
-| IRS Publications | Tax guidance | irs.gov | Tax rates, deductions, regulations | Ch. 9 |
-| SEC | Regulatory | sec.gov | Securities regulations, investor protection | Ch. 2, 12, 16 |
-| Bureau of Labor Statistics | Economic data | bls.gov | CPI, inflation, employment data | Ch. 1, 5 |
-| Census Bureau | Housing data | census.gov | Homeownership rates, housing starts | Ch. 1, 3, 12 |
-| National Association of Realtors (NAR) | Market data | nar.realtor | Median home prices, sales volume | Ch. 3, 5, 12 |
-| S&P Dow Jones Indices | Market data | spglobal.com | S&P 500 returns, Case-Shiller Index | Ch. 1, 5, 6 |
-| Federal Reserve Survey of Consumer Finances (SCF) | Wealth data | federalreserve.gov | Net worth by demographic, asset holdings | Ch. 1, 12 |
-| Freddie Mac PMMS | Mortgage data | freddiemac.com | Historical mortgage rates | Ch. 11 |
-| NYU Stern (Damodaran) | Return data | pages.stern.nyu.edu/~adamodar | Historical stock returns, risk premiums | Ch. 1, 5, 6 |
+*<One-sentence italic introduction naming the persona and the specific scenario being analyzed. Example: "Meet Jordan, a 34-year-old software engineer deciding whether to invest a $60,000 windfall in an index fund or a down payment on a rental property."*>
+
+<!-- Analyze the comparison dimension through the lens of the primary persona for this chapter. Show the math or reasoning step by step. Acknowledge what factors might shift the conclusion for other personas. Reference the relevant persona profile in PERSONAS.md. Approximate length: 400–600 words. -->
+
+<Case study / persona analysis content here.>
+
+---
+
+## Key Takeaways
+
+<!-- 4–6 bullet points. Each bullet must be a complete, standalone sentence — readable in isolation without needing the surrounding chapter context. Write these as durable, actionable insights, not summaries of what the chapter said. Avoid starting consecutive bullets with the same word. -->
+
+- <Takeaway 1.>
+- <Takeaway 2.>
+- <Takeaway 3.>
+- <Takeaway 4.>
+- <Takeaway 5 (optional).>
+- <Takeaway 6 (optional).>
+
+---
+
+---
+<!-- COPY ABOVE THIS LINE -->
+
+---
+
+## Status Footer Reference
+
+Paste this footer at the very bottom of each chapter file and update the fields as the draft progresses:
+
+```
+---
+
+**Chapter Status**
+
+| Field | Value |
+|-------|-------|
+| Draft version | v0.1 |
+| Word count | 0 |
+| Primary persona | <Persona name> |
+| Comparison dimension | <Dimension> |
+| Fact-check status | Not started |
+| Last edited | YYYY-MM-DD |
+| Reviewed by | — |
+| Notes | — |
+```
+
+---
+
+## Section Notes
+
+### Opening Quote
+- Pull from `QUOTES_BANK.md` whenever possible. Quotes there have already been verified for accuracy and cleared for fair use.
+- If proposing a new quote, add it to `QUOTES_BANK.md` with a source citation before including it in the chapter.
+- The quote should connect thematically to the chapter's comparison dimension — not just investing in general.
+
+### Introduction
+- Do not repeat the book's overall thesis here. Assume the reader has read the preceding chapters.
+- Introduce the comparison dimension as if it is a fresh problem the reader needs to solve.
+- The final sentence of the Introduction should serve as a natural handoff into "The Stocks Perspective."
+
+### The Stocks Perspective / The Real Estate Perspective
+- These sections should be roughly equal in length and tone. Neither asset class gets a home-field advantage.
+- Every statistic must have an in-text attribution (e.g., "According to the Federal Reserve's 2023 Survey of Consumer Finances..."). Log each claim in `FACT_CHECK.md` at the time of drafting.
+- Use subheadings (H3) freely within these sections if the content covers multiple sub-topics.
+
+### Side-by-Side Comparison
+- The table is mandatory. Minimum five rows.
+- Column headers must always be "Stocks" and "Real Estate" (consistent across all chapters).
+- Cells should use concise phrases, not full sentences. Save full sentences for the prose below the table.
+- If a cell is genuinely inapplicable, write "N/A" with a note in the prose explaining why.
+
+### Case Study / Persona Analysis
+- Use only personas defined in `PERSONAS.md`. Do not invent new personas mid-chapter.
+- The italic intro sentence is mandatory — it orients the reader before the analysis begins.
+- Show the math. If comparing investment outcomes, include actual figures with clearly stated assumptions (e.g., assumed return rate, time horizon, tax bracket).
+- End with a brief note on how the conclusion might differ for a different persona type.
+
+### Key Takeaways
+- Minimum 4 bullets, maximum 6.
+- Every bullet is a full sentence ending with a period.
+- Write at a level where the takeaway is useful to someone who has NOT read the chapter — these bullets will also appear in summary materials.
+- Do not start with "In conclusion," "Overall," or "As we've seen."
