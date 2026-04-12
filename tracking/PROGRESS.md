@@ -6,9 +6,9 @@ This file tracks the overall progress of the *Stocks vs. Real Estate* book proje
 
 ---
 
-## Overall Completion: ~5%
+## Overall Completion: ~9%
 
-Planning is complete. No chapters have been drafted. Front matter, all 18 chapters, and the glossary are placeholders only. Back matter appendices (A–D) and the disclaimer have placeholder or partial draft content.
+Planning is complete. Chapter 1 first draft is complete (~3,050 words, 12 verification flags pending). Front matter, Chapters 2–18, and the glossary remain placeholders. Back matter appendices (A–D) and the disclaimer have placeholder or partial draft content.
 
 ---
 
@@ -18,7 +18,7 @@ Planning is complete. No chapters have been drafted. Front matter, all 18 chapte
 |-------|----------|--------|------------|
 | Planning | Outline, personas, quotes bank, research sources, data sources, myths list, style guide, design guide, book blueprint | Complete | 100% |
 | Front Matter | Disclaimer, How to Use This Book, Introduction | Not started | 0% |
-| Part I: The Foundations | Chapters 1–4 | Not started | 0% |
+| Part I: The Foundations | Chapters 1–4 | In progress | 25% |
 | Part II: The Head-to-Head Comparison | Chapters 5–12 | Not started | 0% |
 | Part III: The Mind Game | Chapters 13–14 | Not started | 0% |
 | Part IV: Putting It All Together | Chapters 15–18 | Not started | 0% |
@@ -33,7 +33,7 @@ Planning is complete. No chapters have been drafted. Front matter, all 18 chapte
 | — | Disclaimer | Placeholder | — |
 | — | How to Use This Book | Not started | 0 |
 | — | Introduction | Not started | 0 |
-| 1 | The Wealth-Building Landscape | Not started | 0 |
+| 1 | The Wealth-Building Landscape | First draft | 3,050 |
 | 2 | Understanding Stocks | Not started | 0 |
 | 3 | Understanding Real Estate | Not started | 0 |
 | 4 | The Language of Investing | Not started | 0 |
@@ -63,7 +63,8 @@ Planning is complete. No chapters have been drafted. Front matter, all 18 chapte
 
 | Date | Milestone | Notes |
 |------|-----------|-------|
-| | | |
+| 2026-04-12 | Repository scaffold reorganized | File-to-content mismatches fixed; nested folder structure applied |
+| 2026-04-12 | Chapter 1 first draft complete | ~3,050 words; 12 verification flags pending |
 
 ---
 
@@ -71,4 +72,4 @@ Planning is complete. No chapters have been drafted. Front matter, all 18 chapte
 
 | Week Of | Tasks Completed | Word Count Added | Notes |
 |---------|----------------|-----------------|-------|
-| | | | |
+| 2026-04-12 | Repo reorganization; Chapter 1 first draft | 3,050 | First prose chapter drafted |

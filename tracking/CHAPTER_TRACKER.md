@@ -30,7 +30,7 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 
 | Chapter | Title | Target Words | Actual Words | Status | Notes |
 |---------|-------|:------------:|:------------:|--------|-------|
-| Chapter 1 | The Wealth-Building Landscape: A Brief History of Stocks and Real Estate | ~3,000 | | ⬜ | |
+| Chapter 1 | The Wealth-Building Landscape: A Brief History of Stocks and Real Estate | ~3,000 | ~3,050 | 🟡 | First draft complete; 12 [VERIFY]/[LEGAL CHECK] flags pending |
 | Chapter 2 | Understanding Stocks: Ownership, Markets, and How They Work | ~3,500 | | ⬜ | |
 | Chapter 3 | Understanding Real Estate: Property, Equity, and How It Works | ~3,500 | | ⬜ | |
 | Chapter 4 | The Language of Investing: Key Metrics for Stocks and Real Estate Side by Side | ~2,500 | | ⬜ | |
@@ -88,8 +88,8 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 
 | Status | Count |
 |--------|------:|
-| ⬜ Not Started | 22 |
-| 🟡 First Draft | 5 |
+| ⬜ Not Started | 21 |
+| 🟡 First Draft | 6 |
 | 🔵 Review Ready | 0 |
 | 🟢 Final | 0 |
 | 🔴 Needs Revision | 0 |

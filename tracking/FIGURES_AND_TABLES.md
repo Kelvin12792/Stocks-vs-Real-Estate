@@ -9,7 +9,7 @@ Master index of all tables, figures, comparison charts, and visual elements used
 
 | ID | Title | Chapter | Data Source | Source Date | Edition Status |
 |----|-------|---------|-------------|-------------|----------------|
-| T1.1 | | Ch. 1 | | | ⬜ |
+| T1.1 | Century of Returns — Stocks vs. Real Estate Side by Side | Ch. 1 | Jordà et al. (2019) QJE; NYU Stern / Damodaran; S&P Dow Jones Indices Case-Shiller | 2019 / ongoing | 🟡 |
 | T2.1 | | Ch. 2 | | | ⬜ |
 | T3.1 | | Ch. 3 | | | ⬜ |
 | T4.1 | Stock Metrics vs. Real Estate Metrics | Ch. 4 | — (definitional) | — | ⬜ |

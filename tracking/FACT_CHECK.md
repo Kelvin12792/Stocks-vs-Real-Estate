@@ -24,7 +24,31 @@ This log is updated continuously as chapters are drafted and revised. Before any
 
 | # | Chapter | Claim | Source | Source Date | Verified Date | Status | Notes |
 |---|---------|-------|--------|-------------|---------------|--------|-------|
-| — | — | — | — | — | — | — | No chapters drafted yet. Claims will be logged here as manuscript content is written. |
+| 1.01 | Ch. 1 | NYSE origin — Buttonwood Agreement signed by 24 brokers under a buttonwood tree on Wall Street, May 17, 1792 | NYSE Euronext historical records; Geisst, *Wall Street: A History* (2012) | Various | — | 🟡 | Widely corroborated; verify exact date wording against NYSE archive |
+| 1.02 | Ch. 1 | Bucket shops rose in late 19th / early 20th century and were outlawed by most states by the early 1900s | Fabian, *Card Sharps, Dream Books, and Bucket Shops* (1990) | 1990 | — | 🟡 | Secondary source; confirm state-by-state outlaw dates if quoted precisely |
+| 1.03 | Ch. 1 | "May Day 1975" — SEC ended NYSE fixed commission rates on May 1, 1975 | SEC historical record; Securities Acts Amendments of 1975 | 1975 | — | 🟡 | Confirm against SEC rulemaking record |
+| 1.04 | Ch. 1 | ERISA (Pub. L. 93-406) enacted 1974; authorized IRAs | Pub. L. 93-406 | 1974 | — | 🟡 | See LEGAL_REVIEW.md L.06 |
+| 1.05 | Ch. 1 | §401(k) added to IRC by Revenue Act of 1978 | Pub. L. 95-600 | 1978 | — | 🟡 | See LEGAL_REVIEW.md L.07 |
+| 1.06 | Ch. 1 | Vanguard 500 Index Trust launched August 31, 1976 by John C. Bogle | Bogle, *Stay the Course* (2019); Vanguard historical filings | 2019 / 1976 | — | 🟡 | Widely cited; verify exact launch date against Vanguard investor disclosures |
+| 1.07 | Ch. 1 | First U.S. ETF (SPDR S&P 500 Trust / SPY) began trading January 1993 on AMEX | State Street SPDR fund materials; NYSE Arca historical | 1993 | — | 🟡 | Confirm exact launch date (commonly cited as January 22, 1993) |
+| 1.08 | Ch. 1 | Charles Schwab, TD Ameritrade, E*TRADE, Fidelity eliminated stock/ETF commissions October 2019 | Company press releases (October 2019) | 2019 | — | 🟡 | Confirm exact dates for each broker |
+| 1.09 | Ch. 1 | Robinhood launched commission-free trading in 2013 | Robinhood company materials | 2013 | — | 🟡 | Verify founding/launch dates |
+| 1.10 | Ch. 1 | Homestead Act signed May 20, 1862 by Lincoln; offered 160 acres to qualifying homesteaders | Pub. L. 37-64; Bureau of Land Management | 1862 | — | 🟡 | Date widely verified; [VERIFY] 10% of U.S. land figure against BLM tally |
+| 1.11 | Ch. 1 | National Housing Act 1934 created FHA | Pub. L. 73-479 | 1934 | — | 🟡 | See LEGAL_REVIEW.md L.08 |
+| 1.12 | Ch. 1 | Servicemen's Readjustment Act (G.I. Bill) 1944 added VA loan guarantees | Pub. L. 78-346 | 1944 | — | 🟡 | See LEGAL_REVIEW.md L.09 |
+| 1.13 | Ch. 1 | REIT structure enacted September 14, 1960 (Pub. L. 86-779, Title II) signed by Eisenhower | Pub. L. 86-779; NAREIT historical | 1960 | — | 🟡 | See LEGAL_REVIEW.md L.10 |
+| 1.14 | Ch. 1 | FIRREA 1989 created Resolution Trust Corporation in response to S&L crisis | Pub. L. 101-73 | 1989 | — | 🟡 | See LEGAL_REVIEW.md L.11 |
+| 1.15 | Ch. 1 | Jordà, Knoll, Kuvshinov, Schularick, Taylor (2019) — global equities ~7% real, housing ~7% real, 1870–2015, across 16 advanced economies, with lower housing volatility | *Quarterly Journal of Economics*, vol. 134, issue 3 (2019), "The Rate of Return on Everything, 1870–2015" | 2019 | — | 🟡 | [VERIFY] exact unweighted real returns and volatility from Table II of the paper |
+| 1.16 | Ch. 1 | S&P 500 nominal annualized total return ~10% / real ~6.5–7% since 1926 | NYU Stern / Damodaran historical returns dataset; Siegel, *Stocks for the Long Run* (1994, rev. 2022) | 2023 / 2022 | — | 🟡 | Pull exact figures from Damodaran updated spreadsheet |
+| 1.17 | Ch. 1 | U.S. residential real estate long-term real price appreciation ~1% per year (Case-Shiller) | S&P CoreLogic Case-Shiller U.S. National Home Price Index methodology | Ongoing | — | 🟡 | [VERIFY] exact long-horizon real appreciation from S&P Dow Jones Indices |
+| 1.18 | Ch. 1 | Dow Jones Industrial Average peaked at 381.17 on September 3, 1929; trough at 41.22 on July 8, 1932 (~89% decline); recovered nominal peak November 1954 | Dow Jones historical; widely cited | 1929–1954 | — | 🟡 | Verify November 23, 1954 recovery date specifically |
+| 1.19 | Ch. 1 | S&P 500 fell approximately 48% peak-to-trough in the 1973–74 bear market | S&P historical data | 1973–1974 | — | 🟡 | Verify exact peak-to-trough percentage |
+| 1.20 | Ch. 1 | NASDAQ Composite peaked at 5,048.62 on March 10, 2000; trough 1,114.11 on October 9, 2002 (~78% decline) | NASDAQ historical | 2000–2002 | — | 🟡 | Widely cited; confirm against NASDAQ archive |
+| 1.21 | Ch. 1 | S&P 500 fell ~34% from Feb 19, 2020 peak (3,386.15) to March 23, 2020 trough (2,237.40) — fastest bear market on record | S&P Dow Jones Indices; Bloomberg | 2020 | — | 🟡 | Confirm "fastest on record" claim against historical bear market durations |
+| 1.22 | Ch. 1 | S&P CoreLogic Case-Shiller National Home Price Index rose ~40% between mid-2020 and mid-2022 | S&P Dow Jones Indices | 2020–2022 | — | 🟡 | [VERIFY] exact percentage from published index |
+| 1.23 | Ch. 1 | S&P 500 pre-crisis peak 1,565.15 on October 9, 2007; trough 676.53 on March 9, 2009 (~56.8% decline); recovered nominal closing high March 28, 2013 | S&P Dow Jones Indices; widely cited | 2007–2013 | — | 🟡 | Verify exact closing values and recovery date |
+| 1.24 | Ch. 1 | Case-Shiller National Home Price Index peaked around April 2006; trough around February 2012; ~27% peak-to-trough decline in nominal terms; nominal recovery to 2006 peak in late 2016 | S&P Dow Jones Indices | 2006–2016 | — | 🟡 | [VERIFY] exact peak and trough months and decline percentage; sources differ (27%–33% range) |
+| 1.25 | Ch. 1 | Federal Reserve Survey of Consumer Finances (most recent wave 2022): primary residence is the largest asset on most middle-income household balance sheets | Federal Reserve SCF 2022 | 2022 | — | 🟡 | [VERIFY] exact figure and phrasing from SCF 2022 report |
 
 ---
 
