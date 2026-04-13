@@ -23,9 +23,9 @@ The overall target of ~70,300 words provides a comfortable buffer above the 50,0
 |---|---:|---:|---|
 | Chapter 1 — The Wealth-Building Landscape | 3,000 | 3,050 | +50 |
 | Chapter 2 — Understanding Stocks | 3,500 | 5,200 | +1,700 |
-| Chapter 3 — Understanding Real Estate | 3,500 | 0 | N/A |
+| Chapter 3 — Understanding Real Estate | 3,500 | 5,700 | +2,200 |
 | Chapter 4 — The Language of Investing | 2,500 | 0 | N/A |
-| **Part I Subtotal** | **12,500** | **8,250** | **−4,250** |
+| **Part I Subtotal** | **12,500** | **13,950** | **+1,450** |
 
 ---
 
@@ -85,9 +85,9 @@ The overall target of ~70,300 words provides a comfortable buffer above the 50,0
 | | Target Words | Actual Words | Variance |
 |---|---:|---:|---|
 | Front Matter | 3,800 | 0 | N/A |
-| Part I | 12,500 | 8,250 | −4,250 |
+| Part I | 12,500 | 13,950 | +1,450 |
 | Part II | 27,000 | 0 | N/A |
 | Part III | 7,000 | 0 | N/A |
 | Part IV | 13,500 | 0 | N/A |
 | Back Matter | 6,500 | 0 | N/A |
-| **Grand Total** | **~70,300** | **8,250** | **−62,050** |
+| **Grand Total** | **~70,300** | **13,950** | **−56,350** |

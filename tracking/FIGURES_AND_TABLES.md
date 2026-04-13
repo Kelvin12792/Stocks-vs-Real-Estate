@@ -11,7 +11,7 @@ Master index of all tables, figures, comparison charts, and visual elements used
 |----|-------|---------|-------------|-------------|----------------|
 | T1.1 | Century of Returns — Stocks vs. Real Estate Side by Side | Ch. 1 | Jordà et al. (2019) QJE; NYU Stern / Damodaran; S&P Dow Jones Indices Case-Shiller | 2019 / ongoing | 🟡 |
 | T2.1 | Preview of the Stock-versus-Real-Estate Comparison | Ch. 2 | Author-constructed (definitional) | 2026-04-13 | 🟢 |
-| T3.1 | | Ch. 3 | | | ⬜ |
+| T3.1 | Direct-Ownership Comparison of Stocks and Real Estate | Ch. 3 | Author-constructed (definitional, drawing on Ch. 2 and Ch. 3) | 2026-04-13 | 🟢 |
 | T4.1 | Stock Metrics vs. Real Estate Metrics | Ch. 4 | — (definitional) | — | ⬜ |
 | T5.1 | Historical Returns Comparison | Ch. 5 | | | ⬜ |
 | T6.1 | Risk Factors Comparison | Ch. 6 | | | ⬜ |
