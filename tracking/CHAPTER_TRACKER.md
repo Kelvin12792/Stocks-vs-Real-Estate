@@ -31,8 +31,8 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 | Chapter | Title | Target Words | Actual Words | Status | Notes |
 |---------|-------|:------------:|:------------:|--------|-------|
 | Chapter 1 | The Wealth-Building Landscape: A Brief History of Stocks and Real Estate | ~3,000 | ~3,050 | 🔵 | Second pass complete (v0.2); 22 footnotes verified; em dashes removed |
-| Chapter 2 | Understanding Stocks: Ownership, Markets, and How They Work | ~3,500 | ~5,200 | 🟡 | First draft complete (v0.1); 8 footnoted claims logged 2.01–2.08; T2.1 logged |
-| Chapter 3 | Understanding Real Estate: Property, Equity, and How It Works | ~3,500 | ~5,700 | 🟡 | First draft complete (v0.1); 7 footnoted claims logged 3.01–3.07; T3.1 logged |
+| Chapter 2 | Understanding Stocks: Ownership, Markets, and How They Work | ~3,500 | ~3,700 | 🟡 | Draft trimmed to target (v0.2); 8 footnoted claims logged 2.01–2.08; T2.1 logged |
+| Chapter 3 | Understanding Real Estate: Property, Equity, and How It Works | ~3,500 | ~3,800 | 🟡 | Draft trimmed to target (v0.2); 7 footnoted claims logged 3.01–3.07; T3.1 logged |
 | Chapter 4 | The Language of Investing: Key Metrics for Stocks and Real Estate Side by Side | ~2,500 | | ⬜ | |
 
 ---
