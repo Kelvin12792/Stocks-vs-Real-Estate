@@ -54,12 +54,12 @@ Every tax rule, regulation, legal structure, and compliance-related claim in thi
 | L.03 | Self-directed IRA for real estate | Retirement vehicle | IRC §408 | | ⬜ | Ch. 15 | |
 | L.04 | Brokerage account types | Account structure | SEC/IRS regulations | | ⬜ | Ch. 2 | Taxable, IRA, Roth, 401(k) |
 | L.05 | Syndication legal requirements | Securities law | SEC Regulation D | | ⬜ | Ch. 3 | |
-| L.06 | ERISA authorized IRAs | Retirement vehicle | Pub. L. 93-406 (1974) | | 🟡 | Ch. 1 | Referenced in Ch. 1 — confirm citation wording |
-| L.07 | §401(k) enacted by Revenue Act of 1978 | Retirement vehicle | Pub. L. 95-600 (1978); IRC §401(k) | | 🟡 | Ch. 1 | Referenced in Ch. 1 — confirm statutory path |
-| L.08 | National Housing Act of 1934 created the FHA | Federal housing program | Pub. L. 73-479 | | 🟡 | Ch. 1 | Confirm public law number and FHA creation date |
-| L.09 | Servicemen's Readjustment Act of 1944 (G.I. Bill) authorized VA loan guarantees | Federal housing program | Pub. L. 78-346 | | 🟡 | Ch. 1 | Confirm public law number |
-| L.10 | REIT statutory regime enacted September 14, 1960 | Securities / tax structure | Pub. L. 86-779, Title II; IRC §§856–860 | | 🟡 | Ch. 1, Ch. 3 | 90% distribution requirement confirmed per IRC; verify public law number |
-| L.11 | FIRREA 1989 created Resolution Trust Corporation | Federal financial law | Pub. L. 101-73 | | 🟡 | Ch. 1 | Verify public law number |
+| L.06 | ERISA authorized IRAs | Retirement vehicle | Pub. L. 93-406, 88 Stat. 829 (Sept. 2, 1974) | 2026-04-13 | 🟢 | Ch. 1 | Verified via govinfo.gov STATUTE-88 and SSA P.L. 93-406 archive |
+| L.07 | §401(k) enacted by Revenue Act of 1978 | Retirement vehicle | Pub. L. 95-600, 92 Stat. 2763 (Nov. 6, 1978); IRC §401(k) | 2026-04-13 | 🟢 | Ch. 1 | Verified via govinfo.gov STATUTE-92 |
+| L.08 | National Housing Act of 1934 created the FHA | Federal housing program | Pub. L. 73-479 (June 27, 1934) | 2026-04-13 | 🟢 | Ch. 1 | Verified via FRASER (St. Louis Fed) facsimile |
+| L.09 | Servicemen's Readjustment Act of 1944 (G.I. Bill) authorized VA loan guarantees | Federal housing program | Pub. L. 78-346, 58 Stat. 284 (June 22, 1944) | 2026-04-13 | 🟢 | Ch. 1 | Verified via National Archives Milestone Documents |
+| L.10 | REIT statutory regime enacted September 14, 1960 | Securities / tax structure | Pub. L. 86-779, 74 Stat. 998; IRC §§856–860 | 2026-04-13 | 🟢 | Ch. 1, Ch. 3 | Verified via Nareit; chapter no longer cites "Title II" |
+| L.11 | FIRREA 1989 created Resolution Trust Corporation | Federal financial law | Pub. L. 101-73, 103 Stat. 183 (Aug. 9, 1989) | 2026-04-13 | 🟢 | Ch. 1 | Verified via govinfo.gov STATUTE-103 and CRS RS22959 |
 
 ---
 

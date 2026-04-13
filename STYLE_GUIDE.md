@@ -28,6 +28,13 @@ The book combines four tonal registers. Each chapter will use all four, weighted
 - Never express a personal opinion as the author's stance
 - Never use filler phrases ("it goes without saying," "needless to say," "at the end of the day")
 
+### Punctuation Rules
+- **No em dashes (—) anywhere in the manuscript.** This applies to prose, tables, captions, quotes, and metadata. Use commas, colons, parentheses, semicolons, or sentence breaks instead.
+  - Instead of: "The cap rate, a widely used metric — expressed as a percentage — tells an investor how much income a property generates."
+  - Write: "The cap rate, a widely used metric expressed as a percentage, tells an investor how much income a property generates."
+- En dashes (–) are permitted only in numeric or date ranges (e.g., "1926–2023," "pp. 45–50").
+- Hyphens (-) are used only in compound modifiers (e.g., "long-term," "inflation-adjusted").
+
 ---
 
 ## Formatting Conventions
@@ -91,11 +98,17 @@ According to the Federal Reserve's Survey of Consumer Finances (2022), the media
 ```
 
 ### Citations
-Inline citations only. No footnotes. No endnotes. No bibliography.
+Use inline attribution for most data points and assertions (author, publication, and year in the sentence itself). In addition, every verified factual claim that cites a primary source should carry a numbered footnote so that readers, reviewers, and fact-checkers can trace it to a specific URL or document.
+
+- Footnotes use the standard GitHub-flavored Markdown syntax: `[^1]` inline, with the matching `[^1]: ...` definitions collected in a "Sources" section at the end of the chapter.
+- Each footnote must include the source name, the publication or access date, and a URL or document identifier where possible.
+- Footnote numbering restarts at 1 within each chapter file.
+- Endnotes and traditional academic bibliographies are still not used. The Sources section at the end of each chapter is the canonical reference list for that chapter.
+
 ```markdown
-A 2023 study published in the Journal of Financial Economics found that...
-According to IRS Publication 523 (2024)...
-Data from the S&P Dow Jones Indices (2024) shows...
+A 2023 study published in the *Journal of Financial Economics* found that...[^1]
+According to IRS Publication 523 (2024)...[^2]
+Data from the S&P Dow Jones Indices (2024) shows...[^3]
 ```
 
 ---
