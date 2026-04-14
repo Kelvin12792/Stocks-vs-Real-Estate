@@ -5,7 +5,7 @@ Chapter: 5
 Part: II. Head-to-Head Comparison
 Draft version: v0.1
 Word count target: 3,500
-Last edited: 2026-04-13
+Last edited: 2026-04-14
 Persona: David Chen, 38, software engineer, Austin TX
 Comparison dimension: Returns and growth potential
 -->
@@ -95,6 +95,16 @@ Three observations follow from the table and are worth making explicit. First, a
 
 The point of the table is not that leveraged real estate is the best investment. It is that the three regimes are distinct, that each has its own failure mode, and that a fair comparison has to specify the leverage regime before it can specify the expected return. The persona that follows puts a face on the same arithmetic.
 
+## Persona: David Chen, $100,000 and a Decision
+
+David Chen is 38 years old and a software engineer at a mid-size tech company in Austin, Texas. He and his partner have a household income of roughly $165,000, a 401(k) balance of $240,000 held in a target-date fund, $12,000 remaining on a student loan, and, most relevant to this chapter, $100,000 in liquid savings that has been sitting in a high-yield account while David has read articles, talked to friends, and failed to decide what to do with it. The question on his mind is the one this chapter has been circling: should the $100,000 go into a taxable brokerage account invested in broad-market index funds, or should it go toward the down payment on a single-family rental property in the Austin metro area? David is fictional, but the profile is drawn from the PERSONAS file in the repository's planning folder and is representative of the demographic this book is primarily written for.
+
+Reading Table T5.1, David's first instinct is to follow the rightmost column. The leveraged rental scenario produces almost twice the 30-year terminal value of the unleveraged stock scenario under the stated assumptions, and David is 38 and healthy and plans to hold whatever he buys for a very long time. But David has also read the sections of this chapter that precede the table, and he notes three things that the table alone does not capture. First, the 9 percent real return on equity in the leveraged column is an average across scenarios that include some in which his equity was wiped out entirely in a 2008-style event, and he has no independent income stream large enough to absorb that loss without damaging his retirement plan. Second, the leveraged scenario assumes he actually held for thirty years, which in turn assumes he kept the property rented, kept the mortgage current, and did not face a job relocation that forced him to sell into a soft market. Third, the leveraged scenario assumes he wanted to be a landlord, which David has not actually tested against his own temperament.
+
+The stock scenario looks smaller on the page but has compensating features that matter to David. The $100,000 can be deployed in minutes, is diversified across 500 companies on day one, requires no tenant screening or maintenance calls, and can be reduced or redirected in a single trade if David's life circumstances change. It also fits inside David's honest self-assessment of two to three hours per month available for investment management. The unleveraged rental scenario, third in the table, is the least attractive: it takes on all of the operational demands of direct real estate with none of the leverage amplification that makes the asset class competitive.
+
+David's real decision is not between the three columns of Table T5.1 in the abstract. It is between a levered bet he can absorb and a liquid position he actually knows how to manage. If he can find a property in Austin at a price and cap rate that do not require heroic assumptions about rent growth, and if he has enough liquidity left over after the down payment to cover six months of vacancy and a major repair, the leveraged scenario is a live option. If he cannot find such a property, or if the required cash reserve would drain his emergency fund, the stock index fund is the more honest answer for his situation. Chapters 6 through 12 equip David with the additional tools (risk, cash flow, time, tax, liquidity, leverage, barrier to entry) he needs to make that call, and Chapter 17 provides the scoring model that translates all of it into a recommendation. Chapter 5's contribution is simply to make clear that "where does money grow faster?" is not a question with a single answer.
+
 ---
 
 ## Sources
@@ -109,4 +119,4 @@ The point of the table is not that leveraged real estate is the best investment.
 
 ---
 
-*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters, $100,000 Over Ten, Twenty, and Thirty Years (Table T5.1). Sections pending: Persona (David Chen), Key Takeaways. Target word count 3,500; current partial word count approximately 3,400 excluding footnotes and metadata. Last edited 2026-04-13. Reviewed by: (pending). Table T5.1 to be logged in FIGURES_AND_TABLES.md on completion.*
+*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters, $100,000 Over Ten, Twenty, and Thirty Years (Table T5.1), Persona (David Chen). Section pending: Key Takeaways. Target word count 3,500; current partial word count approximately 3,900 excluding footnotes and metadata. Last edited 2026-04-14. Reviewed by: (pending). Table T5.1 to be logged in FIGURES_AND_TABLES.md on completion.*
