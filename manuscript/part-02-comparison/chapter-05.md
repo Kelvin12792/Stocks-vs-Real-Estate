@@ -79,6 +79,22 @@ Over twenty-year and thirty-year windows, the picture stabilizes. Using the Damo
 
 The lesson is not that long horizons guarantee stocks beat housing or vice versa. It is that the width of the window is a variable the investor controls, and that the friction costs and operational demands of direct real estate (Chapter 3's 7 to 11 percent round trip, Chapter 8's time commitment) make real estate especially unsuited to short holding periods. A three-year rental is usually a bad idea even when a three-year stock position is not, because the transaction costs have not had time to amortize against the rental income. Horizon is a structural feature of each asset class, and pretending otherwise is one of the most common mistakes in the comparison.
 
+## $100,000 Over Ten, Twenty, and Thirty Years
+
+The arguments so far have been qualitative. This section makes them concrete with a single worked example, and Table T5.1 presents the result. The example traces $100,000 invested in three stylized ways: into a broad U.S. stock index fund with dividends reinvested, into a $100,000 residential rental property bought for cash with net rent reinvested, and into a $500,000 residential rental property bought with $100,000 down and a $400,000 mortgage, holding the property for the full period. All three scenarios use real (inflation-adjusted) returns, all taxes and idiosyncratic events are ignored, and the annualized return assumptions are stated in the table notes rather than derived on the fly. The goal is not precision. It is to show how the same $100,000 can reach very different terminal values depending on which of the three regimes it enters, under assumptions that are internally consistent and anchored to the historical record used earlier in this chapter.
+
+| Starting Capital | Scenario | Assumed Real Annual Return | Value After 10 Years | Value After 20 Years | Value After 30 Years |
+|------------------|----------|----------------------------|----------------------|----------------------|----------------------|
+| $100,000 | Broad U.S. stock index fund, dividends reinvested | 7% | ~$197,000 | ~$387,000 | ~$761,000 |
+| $100,000 | $100,000 rental, all cash, rent reinvested | 5% | ~$163,000 | ~$265,000 | ~$432,000 |
+| $100,000 (equity) | $500,000 rental, 20% down, 6% fixed mortgage, held 30 years | ~9% on equity | ~$237,000 | ~$560,000 | ~$1,327,000 |
+
+*Table T5.1. Illustrative terminal values of a $100,000 investment in three stylized scenarios under stated assumptions. The stock scenario uses a 7 percent real annualized total return consistent with the long-run Damodaran figures cited in Chapter 1 and above. The unleveraged rental scenario uses a 5 percent real total return, consistent with roughly 4 percent net rental yield plus 1 percent real price appreciation. The leveraged rental scenario uses a 9 percent real annualized return on invested equity, reflecting the combined effect of modest real price appreciation on the full $500,000 property, principal amortization on the mortgage, and net rental cash flow roughly offsetting debt service, with the caveats around volatility and downside risk developed earlier in this chapter. All figures rounded to the nearest $1,000. This table is illustrative only and is not a forecast.*
+
+Three observations follow from the table and are worth making explicit. First, at every horizon, the leveraged rental produces the largest terminal value and the unleveraged rental produces the smallest, with the stock index fund sitting between them but closer to the leveraged rental. Second, the gap between the leveraged rental and the other two scenarios widens dramatically at longer horizons because the leverage effect compounds on a much larger base than the $100,000 original equity. Third, the table says nothing about the path taken to reach these values, and a reader who ignores the earlier sections on volatility, drawdown, and downside leverage risk will be badly misled by the terminal numbers. An unleveraged stock investor who held through 2008 and 2020 reached the 30-year column. A leveraged real estate investor who was forced to sell in 2009 never did. Terminal values assume the investor actually made it to the horizon.
+
+The point of the table is not that leveraged real estate is the best investment. It is that the three regimes are distinct, that each has its own failure mode, and that a fair comparison has to specify the leverage regime before it can specify the expected return. The persona that follows puts a face on the same arithmetic.
+
 ---
 
 ## Sources
@@ -93,4 +109,4 @@ The lesson is not that long horizons guarantee stocks beat housing or vice versa
 
 ---
 
-*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters. Sections pending: $100K Side-by-Side Table, Persona (David Chen), Key Takeaways. Target word count 3,500; current partial word count approximately 2,800 excluding footnotes and metadata. Last edited 2026-04-13. Reviewed by: (pending).*
+*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters, $100,000 Over Ten, Twenty, and Thirty Years (Table T5.1). Sections pending: Persona (David Chen), Key Takeaways. Target word count 3,500; current partial word count approximately 3,400 excluding footnotes and metadata. Last edited 2026-04-13. Reviewed by: (pending). Table T5.1 to be logged in FIGURES_AND_TABLES.md on completion.*
