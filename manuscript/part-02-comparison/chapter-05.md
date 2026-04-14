@@ -67,6 +67,18 @@ Two caveats keep this result from being a clean victory for housing. First, the 
 
 The honest summary is that unleveraged residential real estate has historically delivered slightly better return per unit of measured volatility than equities, but the measurement understates real-world risk for individual owners, and the advantage does not survive the leverage used to make direct real estate worth pursuing in the first place. Chapter 6 examines risk and volatility in full, including the categories of risk that the Sharpe ratio does not capture at all.
 
+## Time Horizon Matters
+
+The answer to "where does money grow faster?" also depends on how long the money is left to grow. A one-year horizon and a thirty-year horizon are not asking the same question, and the same return data can support very different conclusions depending on the window chosen.
+
+Over one-year windows, the comparison is dominated by noise. The S&P 500 has produced annual returns ranging from roughly minus 44 percent (1931) to plus 52 percent (1954) in the Damodaran dataset used throughout this book, with a standard deviation of annual returns in the high teens.[^2] U.S. housing prices in the Case-Shiller series have produced annual price changes ranging from roughly minus 18 percent (2008) to plus 18 percent (2005), with a much lower standard deviation driven in part by the appraisal smoothing flagged in the previous section.[^3] On a one-year basis, neither asset class's long-run average is a reliable guide to any particular year's outcome, and the rank order between the two can flip in either direction.
+
+Over ten-year windows, the noise dampens but does not disappear. Rolling ten-year annualized returns for the S&P 500 since 1928 have occasionally been negative, most recently in the decade ending around 2009. Rolling ten-year price returns for U.S. housing have also been negative over several decade-long windows, notably the decade ending in the mid-2010s. Ten years is long enough for the long-run averages to start exerting pull on the distribution, but not long enough to guarantee either asset class will be ahead.
+
+Over twenty-year and thirty-year windows, the picture stabilizes. Using the Damodaran data, every rolling twenty-year period since the late 1920s has delivered a positive annualized real total return for the S&P 500, and the vast majority of rolling thirty-year periods have delivered annualized real returns between 5 and 8 percent. Housing's long windows are also positive but cluster lower, consistent with the 4 to 5 percent real total-return figure from the previous sections. The longer the window, the more the headline averages assert themselves and the less any single crash or boom can dominate the outcome.
+
+The lesson is not that long horizons guarantee stocks beat housing or vice versa. It is that the width of the window is a variable the investor controls, and that the friction costs and operational demands of direct real estate (Chapter 3's 7 to 11 percent round trip, Chapter 8's time commitment) make real estate especially unsuited to short holding periods. A three-year rental is usually a bad idea even when a three-year stock position is not, because the transaction costs have not had time to amortize against the rental income. Horizon is a structural feature of each asset class, and pretending otherwise is one of the most common mistakes in the comparison.
+
 ---
 
 ## Sources
@@ -81,4 +93,4 @@ The honest summary is that unleveraged residential real estate has historically 
 
 ---
 
-*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns. Sections pending: Time Horizon, $100K Side-by-Side Table, Persona (David Chen), Key Takeaways. Target word count 3,500; current partial word count approximately 2,300 excluding footnotes and metadata. Last edited 2026-04-13. Reviewed by: (pending).*
+*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters. Sections pending: $100K Side-by-Side Table, Persona (David Chen), Key Takeaways. Target word count 3,500; current partial word count approximately 2,800 excluding footnotes and metadata. Last edited 2026-04-13. Reviewed by: (pending).*
