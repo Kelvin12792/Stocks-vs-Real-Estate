@@ -15,7 +15,7 @@ Master index of all tables, figures, comparison charts, and visual elements used
 | T4.1 | Metric Dictionary: Stock Metrics Mapped to Real Estate Metrics | Ch. 4 | Author-constructed (definitional, drawing on Ch. 2 and Ch. 3) | 2026-04-13 | 🟢 |
 | T5.1 | $100,000 Over Ten, Twenty, and Thirty Years: Three Stylized Scenarios | Ch. 5 | Author-constructed (illustrative; assumptions anchored to Damodaran NYU Stern, Jordà et al. 2019 QJE, Case-Shiller CSUSHPINSA) | 2026-04-15 | 🟢 |
 | T6.1 | Risk Factors Comparison | Ch. 6 | | | ⬜ |
-| T7.1 | Cash Flow Comparison | Ch. 7 | | | ⬜ |
+| T7.1 | Starting and Year-10 Monthly Cash Flow from $300,000 in Four Stylized Scenarios | Ch. 7 | Author-constructed (illustrative; assumptions anchored to Shiller S&P 500 dividend series and Ch. 3 rental operating norms) | 2026-04-15 | 🟢 |
 | T8.1 | Time Investment Comparison | Ch. 8 | | | ⬜ |
 | T9.1 | Tax Treatment Comparison | Ch. 9 | IRS | | ⬜ |
 | T10.1 | Liquidity Comparison | Ch. 10 | | | ⬜ |
