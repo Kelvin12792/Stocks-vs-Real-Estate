@@ -34,14 +34,14 @@ The overall target of ~70,300 words provides a comfortable buffer above the 50,0
 | Chapter / Section | Target Words | Actual Words | Variance |
 |---|---:|---:|---|
 | Chapter 5 — Returns and Growth Potential | 3,500 | 4,400 | +900 |
-| Chapter 6 — Risk and Volatility | 3,500 | 0 | N/A |
+| Chapter 6 — Risk and Volatility | 3,500 | 4,600 | +1,100 |
 | Chapter 7 — Cash Flow and Passive Income | 3,500 | 0 | N/A |
 | Chapter 8 — Time, Effort, and Involvement | 3,000 | 0 | N/A |
 | Chapter 9 — Tax Advantages and Legal Structures | 4,000 | 0 | N/A |
 | Chapter 10 — Liquidity and Flexibility | 3,000 | 0 | N/A |
 | Chapter 11 — Leverage and Financing | 3,500 | 0 | N/A |
 | Chapter 12 — Barrier to Entry | 3,000 | 0 | N/A |
-| **Part II Subtotal** | **27,000** | **4,400** | **−22,600** |
+| **Part II Subtotal** | **27,000** | **9,000** | **−18,000** |
 
 ---
 
@@ -86,8 +86,8 @@ The overall target of ~70,300 words provides a comfortable buffer above the 50,0
 |---|---:|---:|---|
 | Front Matter | 3,800 | 0 | N/A |
 | Part I | 12,500 | 13,050 | +550 |
-| Part II | 27,000 | 4,400 | −22,600 |
+| Part II | 27,000 | 9,000 | −18,000 |
 | Part III | 7,000 | 0 | N/A |
 | Part IV | 13,500 | 0 | N/A |
 | Back Matter | 6,500 | 0 | N/A |
-| **Grand Total** | **~70,300** | **17,450** | **−52,850** |
+| **Grand Total** | **~70,300** | **22,050** | **−48,250** |
