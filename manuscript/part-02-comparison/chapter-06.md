@@ -1,36 +1,60 @@
-# Chapter 6 — Risk and Volatility: What Could Go Wrong?
+# Chapter 6. Risk and Volatility: What Could Go Wrong?
 
-<!-- DRAFT PLACEHOLDER — Target: 3,500 words -->
-<!-- Persona: Sarah Okonkwo, 45, nurse, Atlanta GA -->
-<!-- Comparison Dimension: Risk & Volatility -->
+<!--
+Chapter: 6
+Part: II. Head-to-Head Comparison
+Draft version: v0.1
+Word count target: 3,500
+Last edited: 2026-04-15
+Persona: Sarah Okonkwo, 45, registered nurse, Atlanta GA
+Comparison dimension: Risk and volatility
+-->
 
-> "It is not the man who has too little who is poor, but the one who hankers after more."
-> — Seneca, *Letters to Lucilius*
-
----
-
-## Planned Sections
-
-1. **Defining Risk** — Probability of loss, magnitude of loss, variance of outcomes; risk vs. volatility distinction
-2. **Stock Market Volatility** — Daily price swings, bear markets (20%+ decline), corrections (10%+), crashes; VIX as a measure of expected volatility; historical frequency of drawdowns
-3. **Real Estate Risk Profile** — Illiquidity risk, tenant risk (vacancy, non-payment, damage), market cycle risk, location risk, maintenance/capital expenditure risk, natural disaster risk, regulatory risk
-4. **Systematic vs. Unsystematic Risk** — Market-wide risk vs. individual asset risk in each class; how diversification works differently (index fund vs. multiple properties)
-5. **Diversification Within Each Asset Class** — One index fund = 500+ companies; one rental property = concentrated single-asset risk; cost and complexity of diversifying in real estate
-6. **Black Swan Events** — How each asset behaved during: Great Depression, 2008 Financial Crisis, COVID-19 pandemic; recovery timelines compared
-7. **Emotional Risk** — Panic selling stocks during a crash vs. the stress of a bad tenant or unexpected $15,000 repair bill; psychological burden differs by asset
-8. **Side-by-Side Risk Comparison Table**
-9. **Persona: Sarah Okonkwo** — Lived through 2008; evaluating what is actually safer for her risk tolerance and life situation
-
-## Key Data Needed
-- CBOE VIX historical data
-- S&P 500 drawdown history (frequency, depth, recovery time)
-- Case-Shiller data during 2006–2012 decline
-- NBER recession dates and duration
-- Insurance claim data for property damage (FEMA, NFIP)
-
-## Key Takeaways
-- [To be written during drafting]
+> "Risk means more things can happen than will happen."
+> Elroy Dimson, London Business School
 
 ---
 
-*Status: Placeholder — to be drafted*
+## Introduction
+
+Chapter 5 answered the question of where money has historically grown faster and showed that the answer depends heavily on leverage. This chapter takes up the counterpart question that any honest return comparison must also address: what could go wrong, and how badly? A 7 percent real annualized return is not the same asset if it arrives with a 10 percent maximum drawdown as if it arrives with a 55 percent drawdown, even when both series compound to the same terminal value. The path matters because the investor lives on the path, not at the endpoint, and the investor's decision to hold or sell in the middle of that path is the single largest determinant of whether the terminal value is actually captured.
+
+Risk in investing is commonly reduced to a single number, the standard deviation of annual returns, and then the two asset classes are compared on that one dimension as if it were the whole story. It is not. Stocks and real estate have structurally different risk profiles that do not compress neatly into a single volatility figure. Stock market risk is priced continuously, published every second, and impossible to ignore; residential real estate risk is priced rarely, smoothed by appraisal, and much easier to look away from, which is not the same as being absent. Each asset class has categories of risk the other largely does not face, and each has categories of risk that look the same at first glance but operate by very different mechanisms underneath.
+
+This chapter walks through the main categories one at a time. It begins by separating volatility from permanent loss of capital, two ideas that are often conflated. It then compares the two asset classes on market-level volatility using the standard long-run datasets already introduced, and explains why the reported volatility gap between stocks and housing is partly real and partly an artifact of how housing returns are measured. It turns to idiosyncratic risk and the different mechanics of diversification in each asset class. It revisits leverage, the single amplifier that turns either asset into a substantially riskier position, with a specific focus on the asymmetric downside introduced in Chapter 5. It covers liquidity and life-event risk, the category that most often converts a temporary market move into a permanent loss. It closes with a treatment of tail risk and black swan events, drawing on the 2008 and COVID case studies flagged in Chapter 1, before turning to the persona, Sarah Okonkwo, a 45-year-old Atlanta nurse whose question is the one that gives the chapter its shape: "I lived through 2008 and it scared me. What's actually safer, more real estate or more stocks?"
+
+The honest summary is this: stocks are more visibly volatile than unleveraged residential real estate, but once leverage and concentration enter the picture, direct real estate can easily match or exceed stock volatility in the dimensions that actually matter to an individual owner. The asset class with the scary headlines is not always the one with the scarier tail, and the asset class with the quiet prices is not always the one with the smaller risk.
+
+## What "Risk" Actually Means
+
+In everyday speech, risk and volatility are used interchangeably. In investment analysis they are related but distinct, and the distinction is worth making explicit before any comparison begins. **Volatility** (the degree to which an investment's returns vary around their average, most commonly measured by the standard deviation of periodic returns) is a description of how bumpy the ride is. **Risk** (the probability and magnitude of an unfavorable outcome, especially a permanent loss of capital) is a description of what can go wrong and how badly. Volatility contributes to risk but is not the same thing. A perfectly volatile asset that always recovers is not risky in the permanent-loss sense; a quiet asset that slowly goes to zero is extremely risky even if its reported standard deviation is small.
+
+The two concepts diverge most sharply around the idea of **drawdown** (the peak-to-trough decline in the value of an investment measured from its previous high, usually expressed as a percentage). Drawdown is what an investor actually experiences when they open their brokerage statement or appraise their rental property in a bad year. A 50 percent drawdown means the portfolio has lost half of its value from its previous peak, and recovering from that drawdown requires a subsequent 100 percent gain, not a 50 percent gain, because the gain is computed against the lower base. Drawdown statistics are therefore asymmetric in a way that simple volatility statistics are not, and they correspond more closely to the lived experience of risk than standard deviation does.
+
+A third useful idea is **permanent loss of capital** (the portion of a drawdown that is never recovered, either because the investor is forced to sell at the bottom, because the asset itself never recovers, or because the investor's time horizon expires before the recovery arrives). Permanent loss is the kind of risk that actually damages an investment plan. A temporary 40 percent decline that is held through and recovered is, in the long run, a volatility event; the same 40 percent decline that is crystallized by a forced sale, a margin call, a foreclosure, or a death is a permanent loss. The same market move produces different outcomes in each case, and the difference is determined by the investor's circumstances, not by the market's behavior.
+
+These three ideas, volatility, drawdown, and permanent loss, form the vocabulary the rest of the chapter uses. When the next section reports that the S&P 500 has a long-run annual standard deviation in the high teens and the Case-Shiller index has a long-run annual standard deviation closer to the mid-single digits, that is a comparison on volatility alone. When it reports that the S&P 500 fell roughly 56.8 percent from its October 2007 peak to its March 2009 trough, that is a comparison on drawdown. And when it asks how many of the investors who experienced that drawdown actually recovered from it, that is a question about permanent loss, and the answer depends on what those investors were forced to do in the middle of the decline.
+
+## Market Risk: Volatility and Drawdowns
+
+On the most straightforward measure, stocks are meaningfully more volatile than unleveraged residential real estate. Using the Damodaran dataset referenced in Chapter 1 and Chapter 5, annual total returns for the S&P 500 since 1928 have a standard deviation in the high teens, with individual-year returns ranging from roughly minus 44 percent (1931) to plus 52 percent (1954).[^1] The S&P/Case-Shiller U.S. National Home Price Index, the standard long-run series for U.S. residential price levels, shows a much narrower dispersion, with annual nominal price changes ranging from roughly minus 18 percent (2008) to plus 18 percent (2005) and a standard deviation in the mid-single digits over the post-war period.[^2] On that comparison alone, stocks are perhaps two to three times as volatile as housing.
+
+The drawdown comparison tells a similar story with important qualifications. The four largest post-war drawdowns for the S&P 500 on a total-return basis are the 1973 to 1974 bear market (roughly minus 48 percent), the 2000 to 2002 dot-com bear market (roughly minus 49 percent on the S&P 500 and roughly minus 78 percent on the NASDAQ Composite peak to trough), the 2007 to 2009 global financial crisis (roughly minus 56.8 percent), and the February to March 2020 COVID crash (roughly minus 33.9 percent peak to trough, the fastest bear market on record).[^1] The Case-Shiller National Index's worst post-war drawdown, by contrast, was the roughly 27 percent nominal decline from its July 2006 peak to its February 2012 trough, a much shallower decline that unfolded over six years rather than months.[^2] The absolute depth of the housing drawdown was smaller than any of the four listed stock drawdowns, and by that measure unleveraged residential real estate has been the safer asset class.
+
+Two features of the housing number complicate this conclusion. First, the Case-Shiller index is a repeat-sales index that averages transaction prices across a large number of properties, and the averaging process smooths over the much larger price changes experienced by individual homes. A single house in a weak submarket can fall 50 percent while the national index is showing a 15 percent decline, and the individual owner of that single house experiences the 50 percent number, not the 15 percent number. Appraisal-based commercial real estate indices exhibit the same smoothing, and academic work on the difference between transaction-based and appraisal-based volatility (notably by David Geltner and colleagues at MIT) has generally concluded that the true volatility of real estate held at the individual-asset level is significantly higher than the headline index volatility suggests, though still lower than the S&P 500.
+
+Second, and more important for the comparison, housing volatility figures are unleveraged. Once a typical 75 to 80 percent loan-to-value mortgage is applied, the volatility of the investor's equity position is amplified by a factor of roughly four to five, matching or exceeding the volatility of the unlevered S&P 500 on an apples-to-apples basis. The Chapter 5 worked example made this point on the return side: a 5 percent unlevered annual return becomes something like a 20 percent return on equity at 80 percent LTV. The same amplification applies to losses. A 20 percent decline in the underlying property becomes a total wipeout of the equity, a drawdown that no broadly diversified stock index has ever delivered in the post-war period. The right statement is therefore not that real estate is less volatile than stocks. It is that unleveraged real estate is less volatile than unleveraged stocks, and that the conventional way to hold real estate is leveraged while the conventional way to hold stocks is not.
+
+The volatility comparison also looks different on different time scales. Daily stock prices are dramatically more volatile than daily housing prices, because there are no daily housing prices to speak of. Monthly and annual volatility narrows the gap but does not eliminate it. Over rolling five-year and ten-year windows, the two asset classes look more similar than the single-year numbers suggest, because the stock market's large negative years tend to be followed by large positive years that offset them, while the housing market's slow declines tend to persist for longer but at lower magnitudes. The investor who compares stocks and housing on the basis of daily price movements is comparing a visible asset against an invisible one, and the conclusion that stocks are riskier is partly an artifact of the difference in measurement frequency, not a difference in underlying economic risk.
+
+---
+
+## Sources
+
+[^1]: Aswath Damodaran, "Historical Returns on Stocks, Bonds and Bills: 1928 to Current," NYU Stern School of Business, https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html. Accessed 2026-04-15. Standard deviation, range, and drawdown figures are computed from the annual total-return series. Cross-reference to Chapter 1 footnote 20, Chapter 2 footnote 1, and Chapter 5 footnote 2.
+
+[^2]: S&P Dow Jones Indices, S&P/Case-Shiller U.S. National Home Price Index, series CSUSHPINSA, Federal Reserve Bank of St. Louis (FRED), https://fred.stlouisfed.org/series/CSUSHPINSA. Accessed 2026-04-15. Peak and trough dates for the 2006 to 2012 decline are taken from the NSA series. Cross-reference to Chapter 1 footnote 22 and Chapter 5 footnote 3.
+
+---
+
+*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, What "Risk" Actually Means, Market Risk (Volatility and Drawdowns). Sections pending: Idiosyncratic Risk and Diversification, Leverage Risk Revisited, Liquidity and Life-Event Risk, Tail Risk and Black Swans, Persona (Sarah Okonkwo), Key Takeaways. Target word count 3,500; current partial word count approximately 1,500 excluding footnotes and metadata. Last edited 2026-04-15. Reviewed by: (pending).*
