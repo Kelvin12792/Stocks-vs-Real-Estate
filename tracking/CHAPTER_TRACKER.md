@@ -41,7 +41,7 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 
 | Chapter | Title | Target Words | Actual Words | Status | Notes |
 |---------|-------|:------------:|:------------:|--------|-------|
-| Chapter 5 | Returns and Growth Potential: Where Does Your Money Grow Faster? | ~3,500 | | ⬜ | |
+| Chapter 5 | Returns and Growth Potential: Where Does Your Money Grow Faster? | ~3,500 | ~4,400 | 🟡 | First draft complete (v0.1); 4 footnoted claims logged 5.01–5.04; T5.1 logged; over target, to be trimmed on later pass |
 | Chapter 6 | Risk and Volatility: What Could Go Wrong? | ~3,500 | | ⬜ | |
 | Chapter 7 | Cash Flow and Passive Income: Getting Paid While You Sleep | ~3,500 | | ⬜ | |
 | Chapter 8 | Time, Effort, and Involvement: The Hidden Cost of Your Hours | ~3,000 | | ⬜ | |
@@ -88,8 +88,8 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 
 | Status | Count |
 |--------|------:|
-| ⬜ Not Started | 18 |
-| 🟡 First Draft | 8 |
+| ⬜ Not Started | 17 |
+| 🟡 First Draft | 9 |
 | 🔵 Review Ready | 1 |
 | 🟢 Final | 0 |
 | 🔴 Needs Revision | 0 |

@@ -105,6 +105,24 @@ The stock scenario looks smaller on the page but has compensating features that 
 
 David's real decision is not between the three columns of Table T5.1 in the abstract. It is between a levered bet he can absorb and a liquid position he actually knows how to manage. If he can find a property in Austin at a price and cap rate that do not require heroic assumptions about rent growth, and if he has enough liquidity left over after the down payment to cover six months of vacancy and a major repair, the leveraged scenario is a live option. If he cannot find such a property, or if the required cash reserve would drain his emergency fund, the stock index fund is the more honest answer for his situation. Chapters 6 through 12 equip David with the additional tools (risk, cash flow, time, tax, liquidity, leverage, barrier to entry) he needs to make that call, and Chapter 17 provides the scoring model that translates all of it into a recommendation. Chapter 5's contribution is simply to make clear that "where does money grow faster?" is not a question with a single answer.
 
+## Key Takeaways
+
+1. **Unleveraged, stocks and residential real estate have delivered broadly comparable long-run total returns, but the mix differs.** Jordà et al. (2019) report roughly 7.1 percent real annualized total return on housing and 6.9 percent on equities across 16 advanced economies from 1870 to 2015. For the U.S. specifically, the long-run record is closer to 10 percent nominal on the S&P 500 and 5 to 7 percent nominal on unleveraged housing once net rents are included.
+
+2. **The income versus appreciation split is the most important shape parameter in the comparison.** U.S. stocks have historically returned close to half their total return as reinvested dividends and half as real earnings growth and valuation change. U.S. residential real estate has returned the majority of its total return as net rental income, with real price appreciation close to zero on a long-run basis. Any comparison that looks at price charts alone is comparing the wrong things.
+
+3. **Mortgage leverage is the single largest reason return-on-equity comparisons can differ dramatically from return-on-asset comparisons.** At an 80 percent loan-to-value ratio, the amplification factor is five in both directions. A 5 percent unlevered return on a $500,000 property can become a roughly 20 percent return on $100,000 of invested equity in a good year and a total wipeout in a bad one.
+
+4. **Regulation T and FINRA Rule 4210 make equity leverage structurally different from mortgage leverage.** Stock investors are capped at 2 times leverage and face margin calls on the way down; mortgage borrowers routinely access 5 times leverage and face no equivalent mark-to-market mechanism. The callability of the debt is as important as the ratio itself.
+
+5. **On an unleveraged basis, residential real estate has historically produced a slightly higher Sharpe ratio than equities, but the advantage does not survive leverage or idiosyncratic risk.** Index-level housing volatility understates what an individual owner actually faces, and levered real estate Sharpe ratios are not obviously superior to the S&P 500.
+
+6. **Holding period matters enormously, and direct real estate is unusually sensitive to it.** Short windows are dominated by noise for both asset classes; long windows pull toward the historical averages. The 7 to 11 percent round-trip transaction cost on direct real estate makes short holds especially punishing, while a liquid stock position can be entered or exited in seconds.
+
+7. **Terminal values assume the investor actually reached the horizon.** Table T5.1's 30-year column depends on the investor holding through drawdowns, vacancies, repairs, and life events. A leveraged real estate investor who is forced to sell in a down year does not reach the terminal value; an unleveraged stock investor who panic-sells in a crash does not either. Survival through the path is a precondition for capturing the return.
+
+8. **The right answer for any individual depends on which leverage regime they can actually access and sustain.** For David Chen and readers like him, the choice is not between the three columns of Table T5.1 in the abstract. It is between a levered bet they can absorb operationally and financially, and a liquid position they actually know how to manage. Chapters 6 through 12 provide the additional lenses needed to decide which of those regimes fits.
+
 ---
 
 ## Sources
@@ -119,4 +137,4 @@ David's real decision is not between the three columns of Table T5.1 in the abst
 
 ---
 
-*Status: First draft in progress. Draft version v0.1 partial. Sections complete: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters, $100,000 Over Ten, Twenty, and Thirty Years (Table T5.1), Persona (David Chen). Section pending: Key Takeaways. Target word count 3,500; current partial word count approximately 3,900 excluding footnotes and metadata. Last edited 2026-04-14. Reviewed by: (pending). Table T5.1 to be logged in FIGURES_AND_TABLES.md on completion.*
+*Status: First draft complete. Draft version v0.1. All nine sections drafted: Introduction, Historical Average Returns, Total Return (Appreciation Plus Income), The Leverage Effect, Risk-Adjusted Returns, Time Horizon Matters, $100,000 Over Ten, Twenty, and Thirty Years (Table T5.1), Persona (David Chen), Key Takeaways. Target word count 3,500; actual word count approximately 4,400 excluding footnotes and metadata, to be trimmed toward target on a later pass. Last edited 2026-04-15. Reviewed by: (pending). Table T5.1 logged in FIGURES_AND_TABLES.md. FACT_CHECK rows 5.01 to 5.04 logged. Four primary-source footnotes verified.*
