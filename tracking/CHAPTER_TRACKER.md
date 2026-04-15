@@ -44,7 +44,7 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 | Chapter 5 | Returns and Growth Potential: Where Does Your Money Grow Faster? | ~3,500 | ~4,400 | 🟡 | First draft complete (v0.1); 4 footnoted claims logged 5.01–5.04; T5.1 logged; over target, to be trimmed on later pass |
 | Chapter 6 | Risk and Volatility: What Could Go Wrong? | ~3,500 | ~4,600 | 🟡 | First draft complete (v0.1); 2 footnoted claims logged 6.01–6.02; over target, to be trimmed on later pass |
 | Chapter 7 | Cash Flow and Passive Income: Getting Paid While You Sleep | ~3,500 | ~4,700 | 🟡 | First draft complete (v0.1); 2 footnoted claims logged 7.01–7.02; T7.1 logged; over target, to be trimmed on later pass |
-| Chapter 8 | Time, Effort, and Involvement: The Hidden Cost of Your Hours | ~3,000 | | ⬜ | |
+| Chapter 8 | Time, Effort, and Involvement: The Hidden Cost of Your Hours | ~3,000 | ~4,600 | 🟡 | First draft complete (v0.1); 1 footnoted claim logged 8.01; T8.1 logged; over target, to be trimmed on later pass |
 | Chapter 9 | Tax Advantages and Legal Structures: Keeping More of What You Earn | ~4,000 | | ⬜ | |
 | Chapter 10 | Liquidity and Flexibility: How Easily Can You Move? | ~3,000 | | ⬜ | |
 | Chapter 11 | Leverage and Financing: Using Other People's Money | ~3,500 | | ⬜ | |
@@ -88,8 +88,8 @@ This file tracks the drafting and revision status of every section in *Stocks vs
 
 | Status | Count |
 |--------|------:|
-| ⬜ Not Started | 15 |
-| 🟡 First Draft | 11 |
+| ⬜ Not Started | 14 |
+| 🟡 First Draft | 12 |
 | 🔵 Review Ready | 1 |
 | 🟢 Final | 0 |
 | 🔴 Needs Revision | 0 |
