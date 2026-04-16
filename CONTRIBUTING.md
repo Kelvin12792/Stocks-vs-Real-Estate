@@ -1,70 +1,91 @@
-# Cover
+# Contributing Guidelines
 
-## Front Cover
+## Welcome
 
-### Title
-**Stocks vs. Real Estate**
-
-### Subtitle
-A Comprehensive Guide to Building Wealth Through the Two Most Popular Asset Classes
-
-### Author
-[Author Name]
-
-### Cover Image
-<!-- Insert cover image path below -->
-<!-- ![Front Cover](path/to/cover-image.png) -->
-
-*Cover image pending. See DESIGN_GUIDE.md for cover design brief.*
-
-### Design Direction
-- **Mood:** Authoritative, modern, clean
-- **Color treatment:** Deep Navy (#1B2A4A) and Warm Terracotta (#C4572A) split composition
-- **Title font:** Playfair Display, Bold
-- **Subtitle font:** Source Sans 3, Light
-- **Author name font:** Source Sans 3, Regular
-- **Accent:** Gold (#C9A84C) for title underline or decorative element
+Thank you for your interest in contributing to *Stocks vs. Real Estate*. This document outlines the standards and processes for contributing to this book project.
 
 ---
 
-## Spine
+## How to Contribute
 
-- **Background:** Deep Navy (#1B2A4A)
-- **Title:** Playfair Display, Bold, Warm White
-- **Author:** Source Sans 3, Regular, Warm White
+### 1. Reporting Errors
+If you find a factual error, outdated statistic, or incorrect legal/tax information:
+- Open a GitHub Issue using the **Fact Check** label
+- Include: the chapter number, the specific claim, the correct information, and a verifiable source
+- All corrections will be logged in `tracking/FACT_CHECK.md` and `editions/ERRATA.md`
 
----
+### 2. Suggesting Content
+- Open an Issue with the **Content Suggestion** label
+- Describe the topic, why it belongs in the book, and which chapter it relates to
+- Include supporting sources where possible
 
-## Back Cover
+### 3. Reviewing Drafts
+- Draft chapters will be submitted as Pull Requests
+- Reviewers should check for: factual accuracy, tone consistency, clarity, and adherence to the [Style Guide](STYLE_GUIDE.md)
+- Use inline comments on the PR for specific feedback
 
-### Blurb
-
-[150–200 word summary of the book to be written after manuscript completion. Should cover: what the book is about, what the reader will gain, and why this book is different from other investment books.]
-
-### What Readers Will Learn
-
-- How stocks and real estate compare across eight critical investment dimensions
-- Evidence-based analysis of returns, risk, cash flow, taxes, and more — without bias toward either asset
-- Practical decision-making frameworks to identify the right investment path based on individual goals and circumstances
-
-### Author Bio
-
-[Author biography — 80–120 words. Include relevant credentials, professional background, and motivation for writing the book.]
-
-### ISBN / Barcode Area
-
-- **ISBN-13:** [To be assigned]
-- **Barcode placement:** Bottom-right of back cover
+### 4. Submitting Edits
+- Fork the repository
+- Create a branch named: `edit/chapter-XX-description`
+- Make changes and submit a Pull Request with a clear description of what was changed and why
 
 ---
 
-## Edition Marking
+## Standards
 
-| Edition | Marking |
-|---------|---------|
-| 1st Edition | No badge (clean cover) |
-| 2nd Edition+ | Gold badge, top-right: "2nd Edition — Revised and Updated" |
+All contributions must adhere to:
+
+| Standard | Document |
+|----------|----------|
+| Writing tone and formatting | [STYLE_GUIDE.md](STYLE_GUIDE.md) |
+| Visual design and layout | [design/DESIGN_GUIDE.md](design/DESIGN_GUIDE.md) |
+| Chapter structure | [templates/CHAPTER_TEMPLATE.md](templates/CHAPTER_TEMPLATE.md) |
+| Research integrity | See README.md — Research Integrity section |
 
 ---
 
-*Refer to design/DESIGN_GUIDE.md → Cover Design Brief for full specifications.*
+## Branch Naming Conventions
+
+| Purpose | Format | Example |
+|---------|--------|---------|
+| New chapter draft | `draft/chapter-XX` | `draft/chapter-05` |
+| Chapter edit | `edit/chapter-XX-description` | `edit/chapter-05-fix-roi-calc` |
+| Planning docs | `planning/description` | `planning/add-persona` |
+| Design changes | `design/description` | `design/update-color-palette` |
+| Bug/error fix | `fix/description` | `fix/chapter-09-tax-rate` |
+
+---
+
+## Commit Message Format
+
+```
+[type] Short description
+
+- Detail 1
+- Detail 2
+
+Refs: #issue-number (if applicable)
+```
+
+**Types:** `[draft]` `[edit]` `[fix]` `[plan]` `[design]` `[track]` `[meta]`
+
+**Examples:**
+```
+[draft] Complete first draft of Chapter 5 — Returns and Growth Potential
+
+- Added historical S&P 500 return data (1926–2024)
+- Added Case-Shiller home price index comparison
+- Included persona case study: David, 38, software engineer
+- Word count: 3,200
+
+Refs: #12
+```
+
+---
+
+## Code of Conduct
+
+- Be respectful and constructive in all feedback
+- Prioritize factual accuracy over opinion
+- Cite sources for any factual claims added
+- Maintain the neutral, objective tone of the book
